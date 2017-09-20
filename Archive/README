@@ -1,0 +1,13 @@
+For the first part, I write a new rectangle class representing a rectangle, which has four
+connecting line segments. The four line segments should connect consecutively and
+be perpendicular to nearby line segments.
+
+For the second part, I design a DeathlyHallow class as a composite symbol with a triangle, a line
+and a circle in it. The circle should an incircle of the triangle and the line should share the same
+endpoint with the triangle and the other endpoint should be at the midpoint of the opposite edge.
+
+For the third part, I create a class called Snowman_Hat_Hands as my own symbol, representing a
+snowman with hands and a hat. The symbol consists of a triangle, a snowman and two line segments.
+The hat should be tangent with the snowman's head and the opposite endpoint should be on the
+central line of the snowman. The two hands should be at different sides of the snowman and both are
+outward.

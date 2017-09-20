@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xmlns:aop="http://www.springframework.org/schema/aop"
+    xmlns:tx="http://www.springframework.org/schema/tx"
+    xmlns:mvc="http://www.springframework.org/schema/mvc"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/aop 
+        http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/tx 
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+        http://www.springframework.org/schema/mvc 
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+	
+	<!-- sessionFactory -->
+	<bean id="sessionFactory" class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="configLocation">
+			<value>classpath:hibernate.cfg.xml</value>
+		</property>	
+	</bean>           
+	
+	<!-- Operator -->
+	<bean id="transactionManager" class="org.springframework.orm.hibernate3.HibernateTransactionManager">
+		<property name="sessionFactory">
+			<ref bean="sessionFactory"/>
+		</property>	
+	</bean>
+	
+	<!-- transaction manager -->
+	<tx:advice id="txAdvice" transaction-manager="transactionManager">
+		<tx:attributes>
+			<tx:method name="insert*" propagation="REQUIRED"/>
+			<tx:method name="delete*" propagation="REQUIRED"/>
+			<tx:method name="update*" propagation="REQUIRED"/>
+			<tx:method name="*" read-only="true"/>
+		</tx:attributes>
+	</tx:advice>
+	
+	<!-- methods -->
+	<aop:config>
+		<aop:pointcut id="allManagerMethod" expression="execution(* com.dao.*.*(..))"/>
+		<aop:advisor pointcut-ref="allManagerMethod" advice-ref="txAdvice"/>
+	</aop:config>
+	
+ 	
+	<bean id="userDao"  class="com.dao.impl.UserDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	<bean id="dormsDao"  class="com.dao.impl.DormsDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	<bean id="preferenceDao"  class="com.dao.impl.PreferenceDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	<bean id="applyDao"  class="com.dao.impl.ApplyDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	<bean id="messageDao"  class="com.dao.impl.MessageDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	<bean id="maintenanceDao"  class="com.dao.impl.MaintenanceDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	<bean id="busDao"  class="com.dao.impl.BusDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	<bean id="routeDao"  class="com.dao.impl.RouteDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	<bean id="logsDao"  class="com.dao.impl.LogsDaoImpl">
+	<property name="sessionFactory"><ref bean="sessionFactory"/> </property>
+	</bean>
+	
+	
+	<!--<bean id="manageActio"  class="com.action.ManageAction">
+	
+	<property name="userDao"><ref bean="userDao"/> </property>
+	
+	<property name="dormsDao"><ref bean="dormsDao"/> </property>
+	
+	<property name="preferenceDao"><ref bean="preferenceDao"/> </property>
+	
+	<property name="applyDao"><ref bean="applyDao"/> </property>
+	
+	<property name="messageDao"><ref bean="messageDao"/> </property>
+	
+	<property name="maintenanceDao"><ref bean="maintenanceDao"/> </property>
+	
+	<property name="busDao"><ref bean="busDao"/> </property>
+	
+	<property name="routeDao"><ref bean="routeDao"/> </property>
+	
+	<property name="logsDao"><ref bean="logsDao"/> </property>
+	
+	
+	</bean>
+	  -->
+	
+</beans>

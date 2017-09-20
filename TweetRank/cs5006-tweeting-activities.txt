@@ -1,0 +1,808 @@
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [divideandconquer, cs5006], Mentions: [DrAhmedAHamed], TwitID: 837028380109377500
+	Tweet: @DrAhmedAHamed #divideandconquer applies to how my company changed our phone system. Divide up the markets and merge them together #cs5006
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [divideandconquer, divide, conquer, cs5006], Mentions: [DrAhmedAHamed], TwitID: 837027469911801900
+	Tweet: @DrAhmedAHamed #divideandconquer my development process. #divide the pieces into manageable parts and #conquer my gpa #cs5006
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [CS5006MTE, Onions], Mentions: [], TwitID: 834371510534029300
+	Tweet: Paths can be formed connecting a base image to another base image, making construction simply the formation of layers #CS5006MTE #Onions
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834371161106608100
+	Tweet: The base case: a collection of these shape modules, can be viewed as a network, which is connected to the global mosaic network #CS5006MTE
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834370900900380700
+	Tweet: The smallest unit is a shape formed out of the tiles due to these being predetermined #CS5006MTE
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [puns], Mentions: [mhanna141, DrAhmedAHamed], TwitID: 832693241782927400
+	Tweet: @mhanna141 @DrAhmedAHamed so many #puns
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [biologicallyinspired, algorithms, agentbasedmodels, macroeconomics], Mentions: [DrAhmedAHamed], TwitID: 831639766332485600
+	Tweet: @DrAhmedAHamed #biologicallyinspired #algorithms with #agentbasedmodels applied to #macroeconomics https://t.co/8byHwKtzoj
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [Google, Pagerank, metabolic, networks], Mentions: [DrAhmedAHamed], TwitID: 831279597043982300
+	Tweet: @DrAhmedAHamed biologically applicable algorithms by utilizing #Google #Pagerank algorithm into #metabolic #networks https://t.co/2el5qMs7cW
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [biologicallynamed, algorithm, search], Mentions: [DrAhmedAHamed], TwitID: 831273236910452700
+	Tweet: @DrAhmedAHamed some different phrasing but this #biologicallynamed #algorithm is the backbone of Google's #search https://t.co/3MPYDkbRJo
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [antcolonyoptimization], Mentions: [DrAhmedAHamed, CCISatNU, NU_Graduate, Northeastern], TwitID: 831158392588816400
+	Tweet: @DrAhmedAHamed @CCISatNU @NU_Graduate @Northeastern doing some #antcolonyoptimization ? https://t.co/SwKE44tJUA
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [cyclic, bipartite, BFS, CS5006], Mentions: [mhanna141, DrAhmedAHamed], TwitID: 830988570949193700
+	Tweet: RT @mhanna141: @DrAhmedAHamed On the 'edge' of my seat traversing through the world of graphs #cyclic #bipartite #BFS #CS5006
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 830905345681813500
+	Tweet: RT @DrAhmedAHamed: If you want to build a civilization, start with education. If you want to destroy a civilization, start with education #…
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [hashtag, algorithm, CS5006], Mentions: [DrAhmedAHamed], TwitID: 829161661126803500
+	Tweet: @DrAhmedAHamed well good thing you used Twitter’s #hashtag search #algorithm to find that tweet so I could remake it #CS5006
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [BreadthFirstSearch, algorithm, CS5006], Mentions: [DrAhmedAHamed], TwitID: 829161378598486000
+	Tweet: @DrAhmedAHamed #BreadthFirstSearch lets me find similar #algorithm implementations with Google’s Search #CS5006 https://t.co/kM3BHsti6F
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [ALIGN, CS5006], Mentions: [DrAhmedAHamed, CCISatNU], TwitID: 828399164480446500
+	Tweet: RT @DrAhmedAHamed: #ALIGN students learned how to model and represent their #CS5006 class social networks, so awesome! @CCISatNU @Northeast…
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [], Mentions: [danscheirer, DrAhmedAHamed, CCISatNU], TwitID: 826474489055674400
+	Tweet: @danscheirer @DrAhmedAHamed @CCISatNU https://t.co/11w0qryyoA
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [CS5006, ALIGN, Trees, Graphs, Algorithms], Mentions: [RyanKalla, DrAhmedAHamed], TwitID: 826474202953814000
+	Tweet: RT @RyanKalla: @DrAhmedAHamed Trees have life cycles but not Node cycles #CS5006 #ALIGN #Trees #Graphs #Algorithms
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [networks, bees], Mentions: [DrAhmedAHamed], TwitID: 826267243705167900
+	Tweet: @DrAhmedAHamed as a follow up to my random bee comment, here’s a study on pollination #networks https://t.co/KBYP0RoY0n #bees
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [degreeofcentrality, nodes, network, CS5006], Mentions: [DrAhmedAHamed], TwitID: 826266177907335200
+	Tweet: @DrAhmedAHamed utilizing the #degreeofcentrality for #nodes in a #network, keystone species can be identified in biological systems #CS5006
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [algorithms, highlevel, 50000feet], Mentions: [DrAhmedAHamed], TwitID: 823707276724883500
+	Tweet: @DrAhmedAHamed the goal of writing #algorithms is to view the problem from as #highlevel as possible #50000feet
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [neualign], Mentions: [DrAhmedAHamed], TwitID: 819293571476025300
+	Tweet: @DrAhmedAHamed oh man my #neualign education is bleeding into my social media presence
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 819292177327079400
+	Tweet: @DrAhmedAHamed It's especially helpful when attempting to fit within the 128 character limit
+uName: nick_align, Name: Nicholas Morgan, Hashtags: [algorithms, CS5006], Mentions: [DrAhmedAHamed], TwitID: 819255070684565500
+	Tweet: @DrAhmedAHamed Twitter data mining #algorithms have been used to link poorly studied interactions of drugs like THC and Ibuprofen #CS5006
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [cs5006, divideAndConquer], Mentions: [DrAhmedAHamed], TwitID: 837007893090164700
+	Tweet: #cs5006 #divideAndConquer can be used to narrow down what you are interested in when dealing with large data sets @DrAhmedAHamed
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [CS5006MTE], Mentions: [danscheirer], TwitID: 836334815284719600
+	Tweet: @danscheirer When were you able to determine what the smallest was? #CS5006MTE
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [CS5006MTE], Mentions: [malloryspector], TwitID: 836334330058268700
+	Tweet: @malloryspector is there a point where you can start repeating the process? #CS5006MTE
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [CS5006MTE], Mentions: [xyxiaoyao], TwitID: 836318623891353600
+	Tweet: @xyxiaoyao #CS5006MTE How did you decide what intermediate piece to make first?
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835545353227284500
+	Tweet: #CS5006MTE building patterns is easy if you follow a predefined recipe
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835544490941288400
+	Tweet: #CS5006MTE snowflake patterns can fit nicely into one another to make larger designs
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835544318077251600
+	Tweet: #CS5006MTE algorithms can reflect city street grids, working from a centre and branching out
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 833765510361780200
+	Tweet: @DrAhmedAHamed building better communities through cooperation and support
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [cs5006], Mentions: [DrAhmedAHamed], TwitID: 831959769883803600
+	Tweet: algorithms based on ants can be used to help understand how much more people can do #cs5006 @DrAhmedAHamed
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 829155376788553700
+	Tweet: colorful graphs are great but too much fun and it doesn't work #CS5006 @DrAhmedAHamed
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 826490519350034400
+	Tweet: networks can be built around a root or be more cyclical #CS5006 @DrAhmedAHamed
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [algorithms, CS5006], Mentions: [DrAhmedAHamed], TwitID: 823751491060109300
+	Tweet: games can be a great way to get a different story on #algorithms #CS5006 @DrAhmedAHamed
+uName: althea_shaheen, Name: Althea Shaheen, Hashtags: [algorithm, cs5006], Mentions: [DrAhmedAHamed], TwitID: 819014673223839700
+	Tweet: the shortest path #algorithm is a very interesting idea for me to get through the semester #cs5006 @DrAhmedAHamed
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006], Mentions: [], TwitID: 836965056545968100
+	Tweet: #CS5006 If you haven't tweeted about this class in the past few days please do so. I need a recent tweet to make sure I'm getting your data.
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006, networks, graphs, twitter, project], Mentions: [DrAhmedAHamed], TwitID: 836419618151542800
+	Tweet: #CS5006 @DrAhmedAHamed can we use #networks and #graphs to better scrape #twitter data for our class #project?
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006MTE], Mentions: [malloryspector], TwitID: 834885215604596700
+	Tweet: @malloryspector #CS5006MTE is it possible that 1/4 of the square could be used to build the full thing (smaller initial conditions?)
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834544576723558400
+	Tweet: #CS5006MTE A shape with radial symmetry can be tiled using a flip or a shift.  A sub-shape can be leveraged to build the whole thing.
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834543713686786000
+	Tweet: #CS5006MTE The example pattern contains mistakes in it's own pattern.  It's OK if your algorithm fixes those mistakes.
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834539510486728700
+	Tweet: #CS5006MTE A pattern that can extend indefinitely must have some axes of symmetry, Therefore it can be divided into tileable components.
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006, midterm, algorithm, brunch], Mentions: [], TwitID: 833374963168112600
+	Tweet: Working on the #CS5006 #midterm. Now if only I could make an #algorithm for making the ultimate #brunch. https://t.co/I5KTRweXlh
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006, midterm, LindarajaInTheAlhambra], Mentions: [DrAhmedAHamed], TwitID: 832338052286668800
+	Tweet: #CS5006 @DrAhmedAHamed I found another copy of the #midterm pattern. It comes from the #LindarajaInTheAlhambra. https://t.co/GvSlhEXcFz
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [A, TheOne, Neo, Search, algorithms], Mentions: [DrAhmedAHamed], TwitID: 831320022756778000
+	Tweet: @DrAhmedAHamed I don't think #A-Star will work when you're searching for someone who can bend space. #TheOne #Neo #Search #algorithms
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [AgentBasedModeling, Ants, Graphs], Mentions: [DrAhmedAHamed], TwitID: 831292904727515100
+	Tweet: @DrAhmedAHamed Agent Smith makes lots of copies of himself to better find Neo. #AgentBasedModeling #Ants #Graphs… https://t.co/IWaFRbtPSJ
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [butterflies, butterflyeffect, antz, abugslife, beemovie], Mentions: [DrAhmedAHamed], TwitID: 830987168860495900
+	Tweet: @DrAhmedAHamed I prefer #butterflies for problem solving. #butterflyeffect #antz #abugslife #beemovie… https://t.co/hWVsrPuZ7H
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [graph, greedycoloring, brookstheorem, ALIGN, cs5006], Mentions: [DrAhmedAHamed], TwitID: 828775156097114100
+	Tweet: @DrAhmedAHamed the minimum colors needed to color any #graph  is &lt;= the number of edges + 1. #greedycoloring #brookstheorem #ALIGN #cs5006
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006, ALIGN, Trees, Graphs, Algorithms], Mentions: [RyanKalla, DrAhmedAHamed], TwitID: 826915633740804100
+	Tweet: RT @RyanKalla: @DrAhmedAHamed Trees have life cycles but not Node cycles #CS5006 #ALIGN #Trees #Graphs #Algorithms
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [network, graph, Algorithms, CS5006], Mentions: [AswathIlangovan, DrAhmedAHamed], TwitID: 826915549284356100
+	Tweet: RT @AswathIlangovan: Mapping the SpotIt #network reminded me that edges of a #graph can hold a value @DrAhmedAHamed #Algorithms #CS5006 #th…
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 826915373249417200
+	Tweet: @DrAhmedAHamed sorry this is late!
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [twitter, subways, networks, graph, algorithms, cs5006], Mentions: [DrAhmedAHamed], TwitID: 826915302369816600
+	Tweet: @DrAhmedAHamed #twitter, streets, power lines, and #subways are all #networks that can be traversed by the same #graph #algorithms #cs5006
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [ALIGN, CS5006], Mentions: [DrAhmedAHamed], TwitID: 823714817731076100
+	Tweet: @DrAhmedAHamed top-down and ground-up are but two approaches to building algorithms for Spot-It.  #ALIGN #CS5006
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [bruteforce, huristics, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 819181665469792300
+	Tweet: @DrAhmedAHamed doesn't want anyone to #bruteforce his class, but rather apply some #huristics. #CS5006 #ALIGN
+uName: MilesLeMighty, Name: Miles Benjamin, Hashtags: [CS5006], Mentions: [DrAhmedAHamed, PokeTrainerRG], TwitID: 818623752988725200
+	Tweet: @DrAhmedAHamed follow my twitter bot that generates Pokemon Trainers. @PokeTrainerRG #CS5006.
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [divideandconquer, CS5006, align], Mentions: [DrAhmedAHamed], TwitID: 836963997329031200
+	Tweet: @DrAhmedAHamed #divideandconquer We can reach a long-term goal by breaking it into shorter, more manageable goals.#CS5006 #align
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006MTE], Mentions: [Lychnys], TwitID: 835928985221664800
+	Tweet: @Lychnys  Your statement is very clear! So what is the termination of your algorithm? #CS5006MTE
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006MTE], Mentions: [SophieQZ], TwitID: 835851600715526100
+	Tweet: @SophieQZ Like your algorithm! And I have question when to remind that combination is completed and we can rotate.#CS5006MTE
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006MTE], Mentions: [lyfcsc, DrAhmedAHamed], TwitID: 835573677970374700
+	Tweet: @lyfcsc @DrAhmedAHamed After completing current step, do you need to switch to another center to complete the whole pattern? #CS5006MTE
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835156849909448700
+	Tweet: #CS5006MTE 3)Choose center as the start tile and add neighbor tiles. Find another center after completing this elem… https://t.co/6bacjlUNyg
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835153166157086700
+	Tweet: #CS5006MTE 2) I have to figure out which element pattern this puzzle is constitute of and how they are formed with given patterns.
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835152050816237600
+	Tweet: #CS5006MTE 1) I am thinking what I will do if I want to draw this pattern when considering this puzzle.
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [cs5006], Mentions: [DrAhmedAHamed], TwitID: 832370111554191400
+	Tweet: @DrAhmedAHamed It's interesting to see some algorithms simulating natural phenomena.#antcolonyalgorithm#align #cs5006
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [cs5006, align, bipartite], Mentions: [DrAhmedAHamed], TwitID: 829446395409137700
+	Tweet: #cs5006 #align We can use both two-color method and odd cycle method to test whether a graph is #bipartite .@DrAhmedAHamed
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [Algorithm, CS5006, ALIGN, CS5006], Mentions: [CCY676789, DrAhmedAHamed], TwitID: 826609025999573000
+	Tweet: RT @CCY676789: Thanks @DrAhmedAHamed, These hash tag: #Algorithm #CS5006  #ALIGN make #CS5006 students become a connected graph.
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [ALIGN, CS5006], Mentions: [SophieQZ, DrAhmedAHamed, Northeastern], TwitID: 826606789688950800
+	Tweet: RT @SophieQZ: @DrAhmedAHamed #ALIGN #CS5006 Learned TopDown &amp; BottomUp approach for solving game puzzles  @Northeastern
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006], Mentions: [SophieQZ, DrAhmedAHamed, Yuqing_Alice, Luyao_Wang1], TwitID: 826606781182918700
+	Tweet: RT @SophieQZ: @DrAhmedAHamed #CS5006 Designed algorithm through solving game puzzle with fantastic teammates! @Yuqing_Alice @Luyao_Wang1 @y…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [algorithm, CS5006], Mentions: [ychenwei0124], TwitID: 826606625008078800
+	Tweet: RT @ychenwei0124: Divide and Conquer #algorithm breaks down a giant, hard-to-solve problem into some small, solvable pieces. #CS5006 @DrAhm…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006, algorithm, ThinkBig], Mentions: [ychenwei0124], TwitID: 826606611162624000
+	Tweet: RT @ychenwei0124: #CS5006 Lecture 2. Design an #algorithm needs more thinking on how to solve the problem than doing the math. #ThinkBig @D…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [socialmedia, CS5006], Mentions: [ychenwei0124], TwitID: 826606599871541200
+	Tweet: RT @ychenwei0124: Graph is the fundation of #socialmedia. We need to be in a network to reach out and meet new friends. #CS5006 @DrAhmedAHa…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [cs5006, algorithms], Mentions: [Luyao_Wang1, DrAhmedAHamed], TwitID: 826606347542224900
+	Tweet: RT @Luyao_Wang1: @DrAhmedAHamed #cs5006 This class helps us gain different perspectives by learning bottom-up and top-down #algorithms.
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [ALIGN, CS5006], Mentions: [Luyao_Wang1, DrAhmedAHamed], TwitID: 826606342135758800
+	Tweet: RT @Luyao_Wang1: @DrAhmedAHamed Tree is a graph having no cycle. #ALIGN #CS5006
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006, ALIGN], Mentions: [yixing_zhang827, DrAhmedAHamed], TwitID: 826606334510526500
+	Tweet: RT @yixing_zhang827: @DrAhmedAHamed #CS5006 #ALIGN we learned how to play the game quick cups and we wrote the algorithm of the game.😀
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006, ALIGN], Mentions: [yixing_zhang827, DrAhmedAHamed], TwitID: 826606325564063700
+	Tweet: RT @yixing_zhang827: @DrAhmedAHamed #CS5006 #ALIGN Learning algorithm or learning how to design a new algorithm, which one is more importan…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [cs5006], Mentions: [lyfcsc], TwitID: 826606286263480300
+	Tweet: RT @lyfcsc: #cs5006 Looking forward to learning algorithm in your class!!@DrAhmedAHamed
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006, ALIGN, GAME], Mentions: [lyfcsc, DrAhmedAHamed], TwitID: 826606275593117700
+	Tweet: RT @lyfcsc: #CS5006 #ALIGN Optimization is useful in AI, in game design. @DrAhmedAHamed
+#GAME
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [SPOTIT, CS5006, GROUNDUP, TOPDOWN], Mentions: [lyfcsc, DrAhmedAHamed], TwitID: 826606268190163000
+	Tweet: RT @lyfcsc: @DrAhmedAHamed  #SPOTIT game yesterday on #CS5006 . We use algorithm to get the process in both #GROUNDUP and #TOPDOWN!
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006, DirectedGraph, UndirectedGraph, Heuristic], Mentions: [lyfcsc, DrAhmedAHamed], TwitID: 826606262121033700
+	Tweet: RT @lyfcsc: #CS5006  Graphs can be divided into #DirectedGraph like Twitter and #UndirectedGraph like Facebook. #Heuristic  @DrAhmedAHamed
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [algorithms, interesting], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 826606217439084500
+	Tweet: RT @Yuqing_Alice: @DrAhmedAHamed tonight's #algorithms course is fun the cup game is inspiring.  Love the idea of #interesting enjoy #CS500…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006, GreedyAlgorithms], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 826606210686255100
+	Tweet: RT @Yuqing_Alice: @DrAhmedAHamed said on #CS5006 that the #GreedyAlgorithms concentrate on solving current problem. Good way when we cant s…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [spotIt, CS5006], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 826606182731305000
+	Tweet: RT @Yuqing_Alice: @DrAhmedAHamed inspiring #spotIt game today on #CS5006 . The bottom-up &amp; top-down algorithm gives me 2 different views to…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 826606172300046300
+	Tweet: RT @Yuqing_Alice: @DrAhmedAHamed A map can be represented by an adjacency matrix or list. We can calculate the degree by sum the 1s in the…
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [ALIGN, CS5006], Mentions: [DrAhmedAHamed], TwitID: 826531164504600600
+	Tweet: @DrAhmedAHamed Tree is a graph having no cycle. #ALIGN #CS5006
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [cs5006, algorithms], Mentions: [DrAhmedAHamed], TwitID: 824008090689433600
+	Tweet: @DrAhmedAHamed #cs5006 This class helps us gain different perspectives by learning bottom-up and top-down #algorithms.
+uName: Luyao_Wang1, Name: Luyao Wang, Hashtags: [CS5006, align, pretendiwasinclass], Mentions: [DrAhmedAHamed], TwitID: 819541208343150600
+	Tweet: @DrAhmedAHamed #CS5006
+#align I'd better make my password longer after learning about BruteForce algorithm. #pretendiwasinclass
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [DivideAndConquer, Divide, Conquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836741557403406300
+	Tweet: Use #DivideAndConquer for a project, #Divide it into small pieces for everyone, #Conquer for a final product.#CS5006 @DrAhmedAHamed
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006MTE], Mentions: [], TwitID: 836090499400405000
+	Tweet: Forgot the hashtag #CS5006MTE https://t.co/KUcWDonxZN
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006MTE], Mentions: [meredith_accum], TwitID: 836090244424478700
+	Tweet: @meredith_accum Do you have a general rule which tile goes where?#CS5006MTE
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006MTE], Mentions: [DDaskivich], TwitID: 836089019297587200
+	Tweet: @DDaskivich will depth-first search cover the whole pitcure? #CS5006MTE
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [], Mentions: [lyfcsc, DrAhmedAHamed], TwitID: 835593074134954000
+	Tweet: @lyfcsc @DrAhmedAHamed Did you have a way to track previous reference points?
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834997150480220200
+	Tweet: 2. Notice some elements in the graph have some reflection and symmetrical properties . #CS5006MTE https://t.co/0qbRc9QXqG
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [thanksAnts, Algorithm, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 832070802988232700
+	Tweet: Keep tracking the progress and trying a new way will us lead to the optimal solution.#thanksAnts #Algorithm #CS5006  #ALIGN @DrAhmedAHamed
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [BreadthFirstSearch, CS5006], Mentions: [ychenwei0124], TwitID: 829442507855388700
+	Tweet: RT @ychenwei0124: To find a particular node, #BreadthFirstSearch is a trustful method, by layering all the connecting nodes. #CS5006 @DrAhm…
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [DirectedAcyclicGraph, CS5006, ALIGN], Mentions: [yixing_zhang827], TwitID: 829442374728196100
+	Tweet: RT @yixing_zhang827: Life is just like a #DirectedAcyclicGraph. No matter what path one choose, he can't go back.  #CS5006 #ALIGN @DrAhmedA…
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006, Algorithms, TopologicalOrdering], Mentions: [gigipafei], TwitID: 829442018094903300
+	Tweet: RT @gigipafei: #CS5006 #Algorithms #TopologicalOrdering directed graph-every directed edge uv from u to v, u comes before v in the ordering…
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [BFS, BipartieGraph, antiOddCycle, Algorithm, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 829441763551109100
+	Tweet: Run #BFS on a #BipartieGraph, every note on each layer of traversing does not link. #antiOddCycle #Algorithm #CS5006  #ALIGN @DrAhmedAHamed
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006, DirectedGraph, UndirectedGraph, Heuristic], Mentions: [lyfcsc, DrAhmedAHamed], TwitID: 826609488618733600
+	Tweet: RT @lyfcsc: #CS5006  Graphs can be divided into #DirectedGraph like Twitter and #UndirectedGraph like Facebook. #Heuristic  @DrAhmedAHamed
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [socialmedia, CS5006], Mentions: [ychenwei0124], TwitID: 826609432402522100
+	Tweet: RT @ychenwei0124: Graph is the fundation of #socialmedia. We need to be in a network to reach out and meet new friends. #CS5006 @DrAhmedAHa…
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006, algorithm, ThinkBig], Mentions: [ychenwei0124], TwitID: 826609421476298800
+	Tweet: RT @ychenwei0124: #CS5006 Lecture 2. Design an #algorithm needs more thinking on how to solve the problem than doing the math. #ThinkBig @D…
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006, ALIGN], Mentions: [yixing_zhang827, DrAhmedAHamed], TwitID: 826558992096849900
+	Tweet: RT @yixing_zhang827: @DrAhmedAHamed #CS5006 #ALIGN Learning algorithm or learning how to design a new algorithm, which one is more importan…
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006, ALIGN], Mentions: [yixing_zhang827, DrAhmedAHamed], TwitID: 826558977081229300
+	Tweet: RT @yixing_zhang827: @DrAhmedAHamed #CS5006 #ALIGN we learned how to play the game quick cups and we wrote the algorithm of the game.😀
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [ALIGN, CS5006], Mentions: [Luyao_Wang1, DrAhmedAHamed], TwitID: 826558906273001500
+	Tweet: RT @Luyao_Wang1: @DrAhmedAHamed Tree is a graph having no cycle. #ALIGN #CS5006
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [cs5006, algorithms], Mentions: [Luyao_Wang1, DrAhmedAHamed], TwitID: 826558893350387700
+	Tweet: RT @Luyao_Wang1: @DrAhmedAHamed #cs5006 This class helps us gain different perspectives by learning bottom-up and top-down #algorithms.
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [CS5006, align], Mentions: [Luyao_Wang1, DrAhmedAHamed], TwitID: 826558882000547800
+	Tweet: RT @Luyao_Wang1: @DrAhmedAHamed #CS5006
+#align I'd better make my password longer after learning about BruteForce algorithm. #pretendiwasin…
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [Algorithm, CS5006, ALIGN, CS5006], Mentions: [DrAhmedAHamed], TwitID: 826558761334603800
+	Tweet: Thanks @DrAhmedAHamed, These hash tag: #Algorithm #CS5006  #ALIGN make #CS5006 students become a connected graph.
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [bottomup, topdown, Algorithm, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 824170269849829400
+	Tweet: #bottomup builds from small cases, #topdown breaks down from large cases, 1 problem, 2 solutions #Algorithm #CS5006  #ALIGN @DrAhmedAHamed
+uName: CCY676789, Name: CHENGYANG CHEN, Hashtags: [cs5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 818989809402253300
+	Tweet: @DrAhmedAHamed #cs5006 #ALIGN gaming, sorting, searching, ranking, social media are all about algorithms
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [DivideAndConquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836736013020049400
+	Tweet: @DrAhmedAHamed Use #DivideAndConquer one can go to LA free if keep asking people to drive him to places near his current locations.#CS5006
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [DivideAndConquer], Mentions: [DrAhmedAHamed], TwitID: 836617351701401600
+	Tweet: @DrAhmedAHamed #DivideAndConquer is really help to solve big and complex problems. We need to divide the problems and merge the results.
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [CS5006MTE], Mentions: [danscheirer], TwitID: 835989608110387200
+	Tweet: @danscheirer As shown in the given picture, there are many similar parts . So where will you start? #CS5006MTE
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [CS5006MTE], Mentions: [RyanKalla], TwitID: 835989432218107900
+	Tweet: @RyanKalla Great algorithm! One question, do you create one quadrant from the input?#CS5006MTE
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [CS5006MTE], Mentions: [gdjia2015a1], TwitID: 835989338102054900
+	Tweet: @gdjia2015a1 Beautiful pictures! Just one question, what if not enough tiles to generate a complete pattern? #CS5006MTE
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [], Mentions: [ychenwei0124, DrAhmedAHamed], TwitID: 833068050014408700
+	Tweet: @ychenwei0124 @DrAhmedAHamed In my opinion, as far as we can illustrate our algorithms, it's ok.
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [self, CS5006, Ants], Mentions: [DrAhmedAHamed], TwitID: 831753895382757400
+	Tweet: @DrAhmedAHamed Is pervasive computing also an example of #self-organism for using end users devices to do more things #CS5006 #Ants Inspired
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [pheromon, CS5006], Mentions: [DrAhmedAHamed], TwitID: 831750892428857300
+	Tweet: @DrAhmedAHamed We need to keep track of passed nodes and leave #pheromon only on the way back to avoid being trapped in a circle. #CS5006
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [Bipartite, CS5006, Align], Mentions: [DrAhmedAHamed], TwitID: 829201011025797100
+	Tweet: @DrAhmedAHamed Nodes in the same layer of a #Bipartite graph share same color. Bipartite graphs can't have odd nodes cycles. #CS5006 #Align
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [ALIGN, CS5006], Mentions: [DrAhmedAHamed, CCISatNU], TwitID: 828641654068359200
+	Tweet: RT @DrAhmedAHamed: #ALIGN students learned how to model and represent their #CS5006 class social networks, so awesome! @CCISatNU @Northeast…
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [CS5006, algorithm, ThinkBig], Mentions: [ychenwei0124], TwitID: 827361647350128600
+	Tweet: RT @ychenwei0124: #CS5006 Lecture 2. Design an #algorithm needs more thinking on how to solve the problem than doing the math. #ThinkBig @D…
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [Algorithm, CS5006, ALIGN, CS5006], Mentions: [CCY676789, DrAhmedAHamed], TwitID: 826624427001516000
+	Tweet: RT @CCY676789: Thanks @DrAhmedAHamed, These hash tag: #Algorithm #CS5006  #ALIGN make #CS5006 students become a connected graph.
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [ALIGN, CS5006], Mentions: [Luyao_Wang1, DrAhmedAHamed], TwitID: 826606470699565000
+	Tweet: RT @Luyao_Wang1: @DrAhmedAHamed Tree is a graph having no cycle. #ALIGN #CS5006
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [cs5006, algorithms], Mentions: [Luyao_Wang1, DrAhmedAHamed], TwitID: 826606459387539500
+	Tweet: RT @Luyao_Wang1: @DrAhmedAHamed #cs5006 This class helps us gain different perspectives by learning bottom-up and top-down #algorithms.
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 826590028465840100
+	Tweet: @DrAhmedAHamed A map can be represented by an adjacency matrix or list. We can calculate the degree by sum the 1s i… https://t.co/lhV0mB80Iz
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [spotIt, CS5006], Mentions: [DrAhmedAHamed], TwitID: 823775712041664500
+	Tweet: @DrAhmedAHamed inspiring #spotIt game today on #CS5006 . The bottom-up &amp; top-down algorithm gives me 2 different views to solve the problem.
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [CS5006, GreedyAlgorithms], Mentions: [DrAhmedAHamed], TwitID: 819291608780832800
+	Tweet: @DrAhmedAHamed said on #CS5006 that the #GreedyAlgorithms concentrate on solving current problem. Good way when we cant see further.
+uName: Yuqing_Alice, Name: Yuqing Zhong, Hashtags: [algorithms, interesting, CS5006, Northeastern], Mentions: [DrAhmedAHamed], TwitID: 818696284500529200
+	Tweet: @DrAhmedAHamed tonight's #algorithms course is fun the cup game is inspiring.  Love the idea of #interesting enjoy #CS5006 at #Northeastern
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [DivideAndConquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836731683978297300
+	Tweet: @DrAhmedAHamed How to eat an elephant? We can use #DivideAndConquer Keep dividing the elephant until it's mouthful size. Eat them up #CS5006
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006MTE], Mentions: [DDaskivich], TwitID: 836069326163685400
+	Tweet: @DDaskivich When using DFS, you may first need a graph. How do you define the nodes and edges of the graph? #CS5006MTE
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006MTE], Mentions: [SophieQZ], TwitID: 835714082363822100
+	Tweet: @SophieQZ Good job! One question. Since you have a pile of base pieces, how do you know when to stop the combination process? #CS5006MTE
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 835675991666217000
+	Tweet: @DrAhmedAHamed most of the effective algorithms have already been designed. Is there any chance we can come up with other useful ones?
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006MTE], Mentions: [meredith_accum], TwitID: 835674429048950800
+	Tweet: @meredith_accum Is circular symmetry necessary? Maybe axial symmetry also works for your algorithm. #CS5006MTE
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835667119878651900
+	Tweet: (3/3) Keep doing step one and step two until we have the final pattern.  #CS5006MTE https://t.co/7J4AAuNqJP
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835666598446907400
+	Tweet: (2/3) Pick another tile. Place several of it around the center to make a symmetric pattern.  #CS5006MTE https://t.co/98p6HNC0Y5
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835665834685186000
+	Tweet: (1/3) Pick a basic tile and place it in the center.  #CS5006MTE https://t.co/ZsKkiCAoFJ
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [AntColonyOptimazation, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 833778527648510000
+	Tweet: We can actually learn from ants! #AntColonyOptimazation  #CS5006 #ALIGN @DrAhmedAHamed
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [DirectedAcyclicGraph, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 828802880819884000
+	Tweet: Life is just like a #DirectedAcyclicGraph. No matter what path one choose, he can't go back.  #CS5006 #ALIGN @DrAhmedAHamed
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 828399500104462300
+	Tweet: @DrAhmedAHamed #CS5006 #ALIGN Interesting to learn that relationship can be presented by math with matrices and linked lists!
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 824306647887728600
+	Tweet: @DrAhmedAHamed #CS5006 #ALIGN Learning algorithm or learning how to design a new algorithm, which one is more important? Hard to tell.
+uName: yixing_zhang827, Name: yixing zhang, Hashtags: [CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 818625662487593000
+	Tweet: @DrAhmedAHamed #CS5006 #ALIGN we learned how to play the game quick cups and we wrote the algorithm of the game.😀
+uName: mhanna141, Name: Michael Hanna, Hashtags: [Divide, Conquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836680795410612200
+	Tweet: @DrAhmedAHamed #Divide and #Conquer strategies can be used to rule in or out certain medical diagnoses based on symptoms #CS5006
+uName: mhanna141, Name: Michael Hanna, Hashtags: [], Mentions: [Rbronstein5006, DrAhmedAHamed], TwitID: 836003890797637600
+	Tweet: @Rbronstein5006 @DrAhmedAHamed Do you draw a tile, then reflect, or draw multiple tiles and then reflect. The difference could save time!
+uName: mhanna141, Name: Michael Hanna, Hashtags: [], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 835005327229784000
+	Tweet: @Yuqing_Alice @DrAhmedAHamed Neat! Does your repeating part require that you overlap, or am I misreading your selected portion?
+uName: mhanna141, Name: Michael Hanna, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835001403403829200
+	Tweet: Chief Strategy: 1) Place Piece, 2) Check piece for exposed edges 3) Surround Piece with it's associated 'shield/neighbor.' Repeat #CS5006MTE
+uName: mhanna141, Name: Michael Hanna, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835000628950728700
+	Tweet: #CS5006MTE Using a divide and conquer strategy, I started with small units, and built outward from one central node.
+uName: mhanna141, Name: Michael Hanna, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834937527727452200
+	Tweet: Symmetric replication: one can replicate larger units in multiple directions in order to expand patterns.
+#CS5006MTE
+uName: mhanna141, Name: Michael Hanna, Hashtags: [], Mentions: [ArnoldRun, DrAhmedAHamed], TwitID: 831559104212660200
+	Tweet: @ArnoldRun @DrAhmedAHamed So awesome! Thanks for sharing!
+uName: mhanna141, Name: Michael Hanna, Hashtags: [mathematical, Nature, CS5006], Mentions: [DrAhmedAHamed], TwitID: 831557339450851300
+	Tweet: @DrAhmedAHamed Fascinating #mathematical observations in #Nature! Maybe the more we understand, the less entropic the world seems.  #CS5006
+uName: mhanna141, Name: Michael Hanna, Hashtags: [CS5006, snowflake], Mentions: [DrAhmedAHamed], TwitID: 831345426062254100
+	Tweet: @DrAhmedAHamed Here's a mesmerizing weather appropriate self-organizing example! #CS5006 #snowflake
+https://t.co/fi6Um16q29
+uName: mhanna141, Name: Michael Hanna, Hashtags: [CS5006], Mentions: [MilesLeMighty], TwitID: 831301969671286800
+	Tweet: Here's another part of it man! #CS5006
+
+@MilesLeMighty https://t.co/0SQX4873vD
+uName: mhanna141, Name: Michael Hanna, Hashtags: [], Mentions: [malloryspector, DrAhmedAHamed], TwitID: 831292133936074800
+	Tweet: "R" you sure? :D 
+@malloryspector @DrAhmedAHamed
+uName: mhanna141, Name: Michael Hanna, Hashtags: [CS5006, puns], Mentions: [DrAhmedAHamed], TwitID: 831289483094016000
+	Tweet: Feeling Antsy to keep learning algorithms! The ant path algorithm seems mighty similar to neuronal pathways!  #CS5006 #puns @DrAhmedAHamed
+uName: mhanna141, Name: Michael Hanna, Hashtags: [cyclic, bipartite, BFS, CS5006], Mentions: [DrAhmedAHamed], TwitID: 828778281126264800
+	Tweet: @DrAhmedAHamed On the 'edge' of my seat traversing through the world of graphs #cyclic #bipartite #BFS #CS5006
+uName: mhanna141, Name: Michael Hanna, Hashtags: [thematrix, CS5006], Mentions: [DrAhmedAHamed], TwitID: 826471141728538600
+	Tweet: @DrAhmedAHamed From ecology to technology, algorithms have so many degrees of centrality when thinking about reality #thematrix  #CS5006
+uName: mhanna141, Name: Michael Hanna, Hashtags: [bottomsup, CS5006], Mentions: [DrAhmedAHamed], TwitID: 823704949414563800
+	Tweet: @DrAhmedAHamed Like life, algorithms are about the right perspective all the way to the terminating condition! Cheers &amp; #bottomsup #CS5006
+uName: mhanna141, Name: Michael Hanna, Hashtags: [powerofreduction, algorithmrhythm, CS5006], Mentions: [DrAhmedAHamed], TwitID: 819031892473286700
+	Tweet: @DrAhmedAHamed Even impossible problems should be approached, "computer scientists don't give up!"#powerofreduction #algorithmrhythm #CS5006
+uName: mhanna141, Name: Michael Hanna, Hashtags: [powerofreduction, algorithmrhythm], Mentions: [DrAhmedAHamed], TwitID: 818627127977398300
+	Tweet: @DrAhmedAHamed Even impossible problems should be approached, "computer scientists don't give up!" #powerofreduction #algorithmrhythm
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [DivideAndConquer, Divide, Conquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836615486423064600
+	Tweet: @DrAhmedAHamed Used #DivideAndConquer to come up with workouts for half-marathon #Divide runs for speed,endurance #Conquer the race!
+#CS5006
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [think, ClosestPairs, ConstructiveInduction, CS5006MTE, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836609487167455200
+	Tweet: @DrAhmedAHamed Do you #think #ClosestPairs as #ConstructiveInduction could help with a merge strategy for your #CS5006MTE solution? #CS5006
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [], Mentions: [Rbronstein5006, DrAhmedAHamed], TwitID: 836253312261500900
+	Tweet: @Rbronstein5006 @DrAhmedAHamed How do you determine central nodes in your algorithm?
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835567560481521700
+	Tweet: #CS5006MTE 3. Rebuild your image from network. Nodes have size/color/shape info. Edges contain distance and direction from adjacent shapes.
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [CS5006MTE, BFS], Mentions: [], TwitID: 835567370924093400
+	Tweet: #CS5006MTE 2. When you get your "seed" pieces, #BFS out to rebuild your network based on reference from step #1. Leverage Symmetry.
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835567045597089800
+	Tweet: #CS5006MTE 1. I breakdown the smallest repeatable image and represent it as a network. Shape = node. Directed edges to adjacent shapes.
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [CS5006, PuzzleSolvingAlgo], Mentions: [DrAhmedAHamed], TwitID: 833708994288042000
+	Tweet: @DrAhmedAHamed #CS5006 #PuzzleSolvingAlgo Hey guys, draw.io may be a good tool for drawing your images if you're looking for something!
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [CS5006, agentbasedmodeling, netlogo, amherst], Mentions: [xyxiaoyao], TwitID: 831697417099677700
+	Tweet: RT @xyxiaoyao: #CS5006 for anyone into #agentbasedmodeling, I took a class entirely in this topic using #netlogo at #amherst so hit me up @…
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [fibonacci, CS5006], Mentions: [DrAhmedAHamed, mhanna141], TwitID: 831563727874957300
+	Tweet: RT @DrAhmedAHamed: @mhanna141 these patterns can be produced using a formula such as the #fibonacci https://t.co/76CKaTcxy3 #CS5006
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [Ant, algorithms, think, puzzlesolving, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 831562798123606000
+	Tweet: @DrAhmedAHamed #Ant #algorithms inspired me to #think in small steps, but dream big to ace my midterm #puzzlesolving! #CS5006 #ALIGN
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [butterflies, butterflyeffect, antz, abugslife, beemovie], Mentions: [MilesLeMighty, DrAhmedAHamed], TwitID: 831148769152467000
+	Tweet: RT @MilesLeMighty: @DrAhmedAHamed I prefer #butterflies for problem solving. #butterflyeffect #antz #abugslife #beemovie #abugslifewasthebe…
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [CS5006, interesting, DAG, thinkandyouwillwin], Mentions: [DrAhmedAHamed], TwitID: 828991276553007100
+	Tweet: #CS5006 has so many #interesting things to cover. I bet @DrAhmedAHamed could use a #DAG to schedule the rest of term. #thinkandyouwillwin
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [network, graph, Algorithms, CS5006, think, uncomforatble], Mentions: [DrAhmedAHamed], TwitID: 826451512519962600
+	Tweet: Mapping the SpotIt #network reminded me that edges of a #graph can hold a value @DrAhmedAHamed #Algorithms #CS5006 #think #uncomforatble
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [groundup, topdown, think, CS5006, interesting], Mentions: [DrAhmedAHamed], TwitID: 823741036203745300
+	Tweet: Whether you're making algorithms from the #groundup or #topdown, always know when you terminate. #think #CS5006 #interesting @DrAhmedAHamed
+uName: AswathIlangovan, Name: Aswath Ilangovan, Hashtags: [CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 818876069411426300
+	Tweet: @DrAhmedAHamed Algortithms have to be interesting, doesn't matter if they work if they're not interesting. #CS5006 #ALIGN
+uName: gigipafei, Name: Qi, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 836609197764710400
+	Tweet: #CS5006 mergesort (N \lg N) &amp; quicksort (N \lg N) shows divide&amp;conquer algorithms @DrAhmedAHamed
+uName: gigipafei, Name: Qi, Hashtags: [CS5006], Mentions: [], TwitID: 836608344689414100
+	Tweet: #CS5006 Divide&amp;conquer break problems into subproblems and recursively solve the subproblem and combine solutions to solve original problem
+uName: gigipafei, Name: Qi, Hashtags: [CS5006MTE, ClusterOptimization, ClusterFeasibility, FitnessFunction], Mentions: [DrAhmedAHamed], TwitID: 834475584495484900
+	Tweet: #CS5006MTE  #ClusterOptimization #ClusterFeasibility #FitnessFunction high F-force score compared to other prior methods @DrAhmedAHamed
+uName: gigipafei, Name: Qi, Hashtags: [CS5006MTE, Initialization, Selection, Recombination, ClusterMergeCreation], Mentions: [DrAhmedAHamed], TwitID: 834474070062276600
+	Tweet: #CS5006MTE #Initialization #Selection #Recombination(by fragment or by match) #ClusterMergeCreation @DrAhmedAHamed
+uName: gigipafei, Name: Qi, Hashtags: [CS5006MTE, GeneticAlgorithm], Mentions: [DrAhmedAHamed], TwitID: 834472733404717000
+	Tweet: #CS5006MTE #GeneticAlgorithm for constructing large puzzle of unknown dimensions and/or irregular piece location&amp;orientation @DrAhmedAHamed
+uName: gigipafei, Name: Qi, Hashtags: [fibonacci, CS5006], Mentions: [DrAhmedAHamed, mhanna141], TwitID: 833544094987202600
+	Tweet: RT @DrAhmedAHamed: @mhanna141 these patterns can be produced using a formula such as the #fibonacci https://t.co/76CKaTcxy3 #CS5006
+uName: gigipafei, Name: Qi, Hashtags: [CS5006, AlgorithmsFromNature, AntColonyOptimization], Mentions: [DrAhmedAHamed], TwitID: 831335809135554600
+	Tweet: #CS5006 #AlgorithmsFromNature #AntColonyOptimization find shortest path via graphs.Model ants' behaviors-&gt;Solve new problems.
+@DrAhmedAHamed
+uName: gigipafei, Name: Qi, Hashtags: [CS5006, Algorithms, TopologicalOrdering], Mentions: [DrAhmedAHamed], TwitID: 829001653927960600
+	Tweet: #CS5006 #Algorithms #TopologicalOrdering directed graph-every directed edge uv from u to v, u comes before v in the ordering @DrAhmedAHamed
+uName: gigipafei, Name: Qi, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 829000895107047400
+	Tweet: RT @DrAhmedAHamed: Tonight we continue the graph fun. We cover traversal, bipartite, topological ordering, and related algorithms #CS5006 #…
+uName: gigipafei, Name: Qi, Hashtags: [CS5006, Algorithms, BipartiteGraph], Mentions: [DrAhmedAHamed], TwitID: 829000373885100000
+	Tweet: #CS5006 #Algorithms #BipartiteGraph vertices divided into two disjoint sets.every edge connects two vetices from each set.
+@DrAhmedAHamed
+uName: gigipafei, Name: Qi, Hashtags: [ALIGN, CS5006], Mentions: [DrAhmedAHamed, CCISatNU], TwitID: 828701923301785600
+	Tweet: RT @DrAhmedAHamed: #ALIGN students learned how to model and represent their #CS5006 class social networks, so awesome! @CCISatNU @Northeast…
+uName: gigipafei, Name: Qi, Hashtags: [Align, cs5006, network, Northeastern], Mentions: [DrAhmedAHamed], TwitID: 826308902128074800
+	Tweet: @DrAhmedAHamed #Align #cs5006 #network adjacency matrix &amp;adjacency list to represent undirected graphs.#Northeastern
+uName: gigipafei, Name: Qi, Hashtags: [SocialMedia, networks], Mentions: [DrAhmedAHamed, Northeastern, CCISatNU], TwitID: 826115167066931200
+	Tweet: RT @DrAhmedAHamed: Fascinated by #SocialMedia and how they work? Tonight we explore the fundamentals of #networks @Northeastern @CCISatNU #…
+uName: gigipafei, Name: Qi, Hashtags: [Northeastern, ALIGN, CS5006, Algorithms, StopIt, TopDown, BottomUp], Mentions: [DrAhmedAHamed], TwitID: 823965091129331700
+	Tweet: #Northeastern #ALIGN #CS5006 #Algorithms #StopIt
+#TopDown #BottomUp divide the problem into small steps
+@DrAhmedAHamed
+uName: gigipafei, Name: Qi, Hashtags: [Northeastern, ALIGN, CS5006, Algorithms, Heuristics, BruteForce, Humorous], Mentions: [DrAhmedAHamed], TwitID: 819242918397571100
+	Tweet: #Northeastern #ALIGN #CS5006 #Algorithms #Heuristics 
+Didn't know what #BruteForce means when I saw this word.
+#Humorous @DrAhmedAHamed Thx!
+uName: codingbot1000, Name: codingbot1000, Hashtags: [CS5006], Mentions: [Lychnys, DrAhmedAHamed], TwitID: 836471853929525200
+	Tweet: RT @Lychnys: @DrAhmedAHamed A good way to apply divide and conquor is the route search algorithm.We devide maps into smaller parts.#CS5006…
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [DivideConquer, ClosestPairs, Algorithms, MachineLearning, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836451074475176000
+	Tweet: @DrAhmedAHamed #DivideConquer and #ClosestPairs #Algorithms could help predict disease outbreaks and outcomes using #MachineLearning #CS5006
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [CS5006MTE], Mentions: [Yuqing_Alice], TwitID: 835994559305953300
+	Tweet: @Yuqing_Alice I will start at the center of the puzzle and work only with the pieces within a perfect 1/8th section of the puzzle.#CS5006MTE
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [CS5006MTE], Mentions: [nick_align], TwitID: 835986752699514900
+	Tweet: @nick_align Final image is a known in my assumptions.  The specified pattern is a symmetrical 1/8th wedge similar to Chengyang. #CS5006MTE
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [symmetryFTW, CS5006MTE], Mentions: [jennyjohns93], TwitID: 834922604028887000
+	Tweet: @jennyjohns93 I keep track of all graphs in the quadrant and when they are complete, by extension, so is the puzzle. #symmetryFTW #CS5006MTE
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [CS5006MTE], Mentions: [richard_csj], TwitID: 834921034658775000
+	Tweet: @richard_csj It builds a single symmetric portion which by extension is the end of the puzzle except for copying^flipping a bit. #CS5006MTE
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [crafty], Mentions: [ychenwei0124, DrAhmedAHamed], TwitID: 834859295925760000
+	Tweet: @ychenwei0124 @DrAhmedAHamed I just have to say I love how you actually created physical tiles! Great way to visualize the solution #crafty!
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [symmetry, CS5006MTE], Mentions: [], TwitID: 834270996341338100
+	Tweet: I focused on solving the smallest possible portion of the puzzle that would allow me to use #symmetry to complete the rest #CS5006MTE.
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [DivideAndConquer, CS5006MTE], Mentions: [DrAhmedAHamed], TwitID: 834269746577162200
+	Tweet: #DivideAndConquer was essential to simplifying my puzzle into a series of smaller and simpler problems #CS5006MTE @DrAhmedAHamed
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [AgentBasedModeling, Ants, Graphs], Mentions: [MilesLeMighty, DrAhmedAHamed], TwitID: 831364351022026800
+	Tweet: RT @MilesLeMighty: @DrAhmedAHamed Agent Smith makes lots of copies of himself to better find Neo. #AgentBasedModeling #Ants #Graphs #Algori…
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [ants, algorithm, Google, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 831308293024923600
+	Tweet: @DrAhmedAHamed The #ants #algorithm has me thinking how #Google reroutes me around traffic to find the shortest path to dinner! #ALIGN
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [ants, ALIGN], Mentions: [DrAhmedAHamed, CCISatNU, NU_Graduate, Northeastern], TwitID: 830986274546778100
+	Tweet: RT @DrAhmedAHamed: Is nature inspiring to you? Tomorrow we see how #ants help us solve problems @CCISatNU @NU_Graduate @Northeastern #ALIGN…
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [SocialMedia, networks], Mentions: [DrAhmedAHamed, Northeastern, CCISatNU], TwitID: 830908484396908500
+	Tweet: RT @DrAhmedAHamed: Fascinated by #SocialMedia and how they work? Tonight we explore the fundamentals of #networks @Northeastern @CCISatNU #…
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [degreeofcentrality, networks, ALIGN, CS5006], Mentions: [DrAhmedAHamed], TwitID: 830908241500631000
+	Tweet: The real world applications of #degreeofcentrality in #networks are incredible! #ALIGN #CS5006 @DrAhmedAHamed… https://t.co/w4uMgtolCW
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [Graph, Bipartite, BipartiteGraphs, ALIGN, CS5006, CCISatNU], Mentions: [DrAhmedAHamed], TwitID: 829504700735168500
+	Tweet: @DrAhmedAHamed If I were a #Graph I could never be #Bipartite. #BipartiteGraphs aren't allowed to have odd cycles🤓 #ALIGN #CS5006 #CCISatNU
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [networks, centrality, inspiring, ALIGN], Mentions: [DrAhmedAHamed, CCISatNU, Northeastern, NU_Graduate], TwitID: 828397516743966700
+	Tweet: @DrAhmedAHamed @CCISatNU @Northeastern @NU_Graduate Awesome! The power of  #networks and #centrality is #inspiring! #ALIGN
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [ALIGN, CS5006], Mentions: [DrAhmedAHamed, CCISatNU], TwitID: 828396514548600800
+	Tweet: RT @DrAhmedAHamed: #ALIGN students learned how to model and represent their #CS5006 class social networks, so awesome! @CCISatNU @Northeast…
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [Matrix, NetworkWonderland, ALIGN, CS5006], Mentions: [DrAhmedAHamed, CCISatNU], TwitID: 826291302912446500
+	Tweet: Taking the red pill and stepping into the #Matrix with @DrAhmedAHamed Down the rabbit hole into #NetworkWonderland #ALIGN #CS5006 @CCISatNU
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [knowledge, GameAlgorithms, ComputationalThinking, ALGIN, CS5006], Mentions: [DrAhmedAHamed, CCISatNU, Northeastern], TwitID: 823702903026229200
+	Tweet: Building #knowledge of #GameAlgorithms from the bottom up w/@DrAhmedAHamed.  #ComputationalThinking #ALGIN #CS5006 @CCISatNU @Northeastern
+uName: danscheirer, Name: Dan Scheirer II, Hashtags: [KnowledgeDiscovery, Twitter, Hashtags, CS5006], Mentions: [DrAhmedAHamed], TwitID: 818659859734396900
+	Tweet: @DrAhmedAHamed Amazing to learn that #KnowledgeDiscovery can be used to identity unknown drug interactions using #Twitter #Hashtags #CS5006
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [divideAndConquer, scheduling, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836441675845218300
+	Tweet: Perhaps #divideAndConquer could be used to solve optimal #scheduling problems? @DrAhmedAHamed #CS5006
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [initial, assumption, puzzle, CS5006MTE], Mentions: [gigipafei], TwitID: 835308258529247200
+	Tweet: @gigipafei  Could you make an #initial #assumption to limit the dimensions of the #puzzle? #CS5006MTE
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [onions, CS5006MTE], Mentions: [nick_align], TwitID: 835307538614747100
+	Tweet: @nick_align Could you use symmetry to connect base images to each other when creating the layers? #onions #CS5006MTE
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [CS5006MTE], Mentions: [Luyao_Wang1], TwitID: 835303357585715200
+	Tweet: @Luyao_Wang1 Can you add a rule to determine where to add the next center (i.e. above and to the left?) if you haven’t already? #CS5006MTE
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [iterative, set, CS5006MTE], Mentions: [], TwitID: 835300461867565000
+	Tweet: 3. Designed an #iterative algorithm to place pieces from the #set of remaining tiles onto the mosaic. #CS5006MTE
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [rulesofthumb, pattern, CS5006MTE], Mentions: [], TwitID: 835300373585887200
+	Tweet: 2. Wrote #rulesofthumb to define which pieces could be placed next to other pieces to maintain a continuous #pattern. #CS5006MTE
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [assumption, symmetry, CS5006MTE], Mentions: [], TwitID: 835300230279086100
+	Tweet: 1. Made an #assumption that the mosaic had circular #symmetry. #CS5006MTE
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [ant, selfOrganization, collectiveAction, cs5006], Mentions: [DrAhmedAHamed], TwitID: 831303372170989600
+	Tweet: #ant-icipating that #selfOrganization and #collectiveAction in nature will continue to impact algorithm design in CS @DrAhmedAHamed #cs5006
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [cyclic, bipartite, BFS, CS5006], Mentions: [mhanna141, DrAhmedAHamed], TwitID: 828819269370642400
+	Tweet: RT @mhanna141: @DrAhmedAHamed On the 'edge' of my seat traversing through the world of graphs #cyclic #bipartite #BFS #CS5006
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [undirected, graphs, search, breadth, cs5006], Mentions: [DrAhmedAHamed], TwitID: 828780269905801200
+	Tweet: Traversing through #undirected #graphs in #search of a #breadth of fresh air with  @DrAhmedAHamed in #cs5006
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [tree, graph, edge, vertex, cs5006], Mentions: [DrAhmedAHamed], TwitID: 826333095192358900
+	Tweet: A cardinal rule of the #tree #graph is that the #edge set's cardinality must equal that of the #vertex set minus one. #cs5006 @DrAhmedAHamed
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 823756775090483200
+	Tweet: @DrAhmedAHamed yes!
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [bottomup, topdown, basecase, constraints, termination, cs5006], Mentions: [DrAhmedAHamed], TwitID: 823753773931786200
+	Tweet: @DrAhmedAHamed Our #bottomup &amp; #topdown algorithms had a #basecase, #constraints met at each step, and a #termination condition. #cs5006
+uName: meredith_accum, Name: Meredith Accum, Hashtags: [algorithm, cs5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 818886471637667800
+	Tweet: Greedy #algorithm strategies show little foresight. #cs5006 #ALIGN @DrAhmedAHamed
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [FileSharing, DivideAndConquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836440698975047700
+	Tweet: Understanding #FileSharing #DivideAndConquer divide 1 file, conquer by DL'ing parts, &amp; combine the file together.  @DrAhmedAHamed #CS5006
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [], Mentions: [TomTheLeonard, DrAhmedAHamed], TwitID: 836438781964202000
+	Tweet: RT @TomTheLeonard: @DrAhmedAHamed One possible use of Divide and Conquer is mail sorting, dividing by specific location requirements at eac…
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [pheromon], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 836228751197339600
+	Tweet: RT @Yuqing_Alice: @DrAhmedAHamed We need to keep track of passed nodes and leave #pheromon only on the way back to avoid being trapped in a…
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [CS5006MTE], Mentions: [ychenwei0124, DrAhmedAHamed], TwitID: 834629831174156300
+	Tweet: @ychenwei0124 @DrAhmedAHamed #CS5006MTE are there any conditions for link titles?
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [CS5006MTE], Mentions: [richard_csj], TwitID: 834628719977386000
+	Tweet: @richard_csj #CS5006MTE how do you know where the where the row begins or ends?
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [NeuralNetworks, ant, pheromones, ReinforcePaths, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 831321797912100900
+	Tweet: Starting 2 see how MarI/O https://t.co/teIBl82Bds &amp; #NeuralNetworks work from #ant #pheromones #ReinforcePaths #CS5006 @DrAhmedAHamed #ALIGN
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [ALIGN, CS5006], Mentions: [DrAhmedAHamed, CCISatNU], TwitID: 828618248077844500
+	Tweet: RT @DrAhmedAHamed: #ALIGN students learned how to model and represent their #CS5006 class social networks, so awesome! @CCISatNU @Northeast…
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [Matrix, NetworkWonderland, ALIGN], Mentions: [danscheirer, DrAhmedAHamed], TwitID: 826483597318168600
+	Tweet: RT @danscheirer: Taking the red pill and stepping into the #Matrix with @DrAhmedAHamed Down the rabbit hole into #NetworkWonderland #ALIGN…
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [NortheasternUniversity], Mentions: [DrAhmedAHamed], TwitID: 826483465621221400
+	Tweet: @DrAhmedAHamed #NortheasternUniversity would be the underlying network on LinkedIn.
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [central, foodweb, network], Mentions: [jennyjohns93, DrAhmedAHamed], TwitID: 826431790286008300
+	Tweet: RT @jennyjohns93: @DrAhmedAHamed Sea urchins are the #central organism of the #foodweb #network between sea urchins, sea otters and kelp! #…
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [DirectedGraph, Graphs, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 826431265301749800
+	Tweet: Twitter is a #DirectedGraph because we follow @DrAhmedAHamed but he doesn't need to follow us. #Graphs are all around us.  #CS5006 #ALIGN
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [CS5006, designingAlgorithms, baseCase, inductive, termination], Mentions: [DrAhmedAHamed], TwitID: 823927605535588400
+	Tweet: @DrAhmedAHamed #CS5006 One approach to #designingAlgorithms is taking your #baseCase and using an #inductive step to reach your #termination
+uName: ArnoldRun, Name: Arnold Esguerra, Hashtags: [algorithm, simpleidea, ruleofthumb, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 819025359698071600
+	Tweet: An #algorithm doesn't have to be complex, but rather a #simpleidea that works.  #ruleofthumb #CS5006 #ALIGN @DrAhmedAHamed
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006], Mentions: [Lychnys, DrAhmedAHamed], TwitID: 836439087720562700
+	Tweet: RT @Lychnys: @DrAhmedAHamed A good way to apply divide and conquor is the route search algorithm.We devide maps into smaller parts.#CS5006…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [DivideAndConquer], Mentions: [RyanKalla, DrAhmedAHamed], TwitID: 836439048508084200
+	Tweet: RT @RyanKalla: @DrAhmedAHamed #DivideAndConquer can help musicians create practice schedules. DaC algorithms can rank and sort songs by dif…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [fibonacci, CS5006], Mentions: [mhanna141], TwitID: 831365675809640400
+	Tweet: @mhanna141 these patterns can be produced using a formula such as the #fibonacci https://t.co/76CKaTcxy3 #CS5006
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [NeuralNetworks, ant, pheromones, ReinforcePaths, CS5006], Mentions: [ArnoldRun], TwitID: 831348960191209500
+	Tweet: RT @ArnoldRun: Starting 2 see how MarI/O https://t.co/teIBl82Bds &amp; #NeuralNetworks work from #ant #pheromones #ReinforcePaths #CS5006 @DrAh…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, snowflake], Mentions: [mhanna141, DrAhmedAHamed], TwitID: 831348608494616600
+	Tweet: RT @mhanna141: @DrAhmedAHamed Here's a mesmerizing weather appropriate self-organizing example! #CS5006 #snowflake
+https://t.co/fi6Um16q29
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, puns], Mentions: [mhanna141], TwitID: 831317105886822400
+	Tweet: RT @mhanna141: Feeling Antsy to keep learning algorithms! The ant path algorithm seems mighty similar to neuronal pathways!  #CS5006 #puns…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [AgentBasedModeling, Ants, Graphs], Mentions: [MilesLeMighty, DrAhmedAHamed], TwitID: 831316940501168100
+	Tweet: RT @MilesLeMighty: @DrAhmedAHamed Agent Smith makes lots of copies of himself to better find Neo. #AgentBasedModeling #Ants #Graphs #Algori…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, neverbored], Mentions: [SophieQZ, DrAhmedAHamed, ccis, Northeastern], TwitID: 831316844090908700
+	Tweet: RT @SophieQZ: @DrAhmedAHamed Very interesting midterm! #CS5006 Ready to invent new algorithm! @CCIS @Northeastern #neverbored~ https://t.co…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [followthepheromonetrail, CS5006], Mentions: [jennyjohns93, DrAhmedAHamed], TwitID: 831316547721363500
+	Tweet: RT @jennyjohns93: Ants play the greatest game of follow the leader! #followthepheromonetrail #CS5006 @DrAhmedAHamed 🐜🐜🐜
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [ants, ALIGN, CS5006, algorithms], Mentions: [CCISatNU, NU_Graduate, Northeastern], TwitID: 830967223367954400
+	Tweet: Is nature inspiring to you? Tomorrow we see how #ants help us solve problems @CCISatNU @NU_Graduate @Northeastern #ALIGN #CS5006 #algorithms
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [nodes, connected, cs5006, BFS, graphs], Mentions: [malloryspector, DrAhmedAHamed], TwitID: 828815118691610600
+	Tweet: RT @malloryspector: Wondering if two #nodes are #connected? #cs5006 has that answer in the bag! #BFS #graphs @DrAhmedAHamed
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [], Mentions: [gdjia2015a1, DrAhmedAHamed], TwitID: 828810877889544200
+	Tweet: RT @gdjia2015a1: @DrAhmedAHamed While using BFS to traverse a graph, starting point doesn't matter just as we can crawl from any webpage to…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [graphs, CS5006, ALIGN], Mentions: [xyxiaoyao], TwitID: 828806045585768400
+	Tweet: RT @xyxiaoyao: Directed #graphs are much harder to be cyclic, and directed acyclic graphs are great for semantic analysis! #CS5006 #ALIGN @…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [cyclic, bipartite, BFS, CS5006], Mentions: [mhanna141, DrAhmedAHamed], TwitID: 828805985263292400
+	Tweet: RT @mhanna141: @DrAhmedAHamed On the 'edge' of my seat traversing through the world of graphs #cyclic #bipartite #BFS #CS5006
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [BreadthFirstSearch], Mentions: [Rbronstein5006, DrAhmedAHamed], TwitID: 828805248424804400
+	Tweet: RT @Rbronstein5006: @DrAhmedAHamed #BreadthFirstSearch traverses a graph from a node one degree of separation at a time until the graph is…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, ALIGN], Mentions: [CCISatNU], TwitID: 828712388824285200
+	Tweet: Tonight we continue the graph fun. We cover traversal, bipartite, topological ordering, and related algorithms #CS5006 #ALIGN @CCISatNU
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [ALIGN, CS5006], Mentions: [CCISatNU], TwitID: 828390267082383400
+	Tweet: #ALIGN students learned how to model and represent their #CS5006 class social networks, so awesome! @CCISatNU… https://t.co/Ag9tdXqJJ3
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [socialmedia, CS5006], Mentions: [ychenwei0124], TwitID: 826630859247779800
+	Tweet: RT @ychenwei0124: Graph is the fundation of #socialmedia. We need to be in a network to reach out and meet new friends. #CS5006 @DrAhmedAHa…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [Algorithm, CS5006, ALIGN, CS5006], Mentions: [CCY676789, DrAhmedAHamed], TwitID: 826630500202717200
+	Tweet: RT @CCY676789: Thanks @DrAhmedAHamed, These hash tag: #Algorithm #CS5006  #ALIGN make #CS5006 students become a connected graph.
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 826630438865293300
+	Tweet: RT @Yuqing_Alice: @DrAhmedAHamed A map can be represented by an adjacency matrix or list. We can calculate the degree by sum the 1s in the…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [DirectedGraph, Graphs], Mentions: [ArnoldRun, DrAhmedAHamed], TwitID: 826477473135263700
+	Tweet: RT @ArnoldRun: Twitter is a #DirectedGraph because we follow @DrAhmedAHamed but he doesn't need to follow us. #Graphs are all around us.  #…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, ALIGN, Trees, Graphs, Algorithms], Mentions: [RyanKalla, DrAhmedAHamed], TwitID: 826312343323816000
+	Tweet: RT @RyanKalla: @DrAhmedAHamed Trees have life cycles but not Node cycles #CS5006 #ALIGN #Trees #Graphs #Algorithms
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [Matrix, NetworkWonderland, ALIGN], Mentions: [danscheirer, DrAhmedAHamed], TwitID: 826292222006087700
+	Tweet: RT @danscheirer: Taking the red pill and stepping into the #Matrix with @DrAhmedAHamed Down the rabbit hole into #NetworkWonderland #ALIGN…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [degreecentrality, network, connections], Mentions: [malloryspector, DrAhmedAHamed], TwitID: 826273762068852700
+	Tweet: RT @malloryspector: @DrAhmedAHamed #degreecentrality applied to a social #network helps identify influential people and make #connections b…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [degreeofcentrality, nodes, network], Mentions: [nick_align, DrAhmedAHamed], TwitID: 826273749834031100
+	Tweet: RT @nick_align: @DrAhmedAHamed utilizing the #degreeofcentrality for #nodes in a #network, keystone species can be identified in biological…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [central, foodweb, network], Mentions: [jennyjohns93, DrAhmedAHamed], TwitID: 826273596658036700
+	Tweet: RT @jennyjohns93: @DrAhmedAHamed Sea urchins are the #central organism of the #foodweb #network between sea urchins, sea otters and kelp! #…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [SocialMedia, networks, ALIGN, CS5006], Mentions: [Northeastern, CCISatNU], TwitID: 826087789913579500
+	Tweet: Fascinated by #SocialMedia and how they work? Tonight we explore the fundamentals of #networks @Northeastern @CCISatNU #ALIGN #CS5006
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [bottomup, topdown, Algorithm, CS5006, ALIGN], Mentions: [CCY676789], TwitID: 824295532269097000
+	Tweet: RT @CCY676789: #bottomup builds from small cases, #topdown breaks down from large cases, 1 problem, 2 solutions #Algorithm #CS5006  #ALIGN…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [Northeastern, ALIGN, CS5006, Algorithm, THINKANDYOUWILLWIN], Mentions: [SophieQZ, DrAhmedAHamed], TwitID: 824086152491761700
+	Tweet: RT @SophieQZ: @DrAhmedAHamed Great Class! love the cups game! Looking forward #Northeastern #ALIGN #CS5006 #Algorithm #THINKANDYOUWILLWIN
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [QuickCups, algorithms, nsquared], Mentions: [malloryspector, DrAhmedAHamed], TwitID: 824086135748104200
+	Tweet: RT @malloryspector: @DrAhmedAHamed using brute force for our #QuickCups #algorithms turned out not to be so quick #nsquared #thinkAndYouWil…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, ALIGN, algorithm, SpotIt, game], Mentions: [], TwitID: 823942403589636100
+	Tweet: The wonderful #CS5006 #ALIGN students came up with a card genetation #algorithm for the #SpotIt #game during class… https://t.co/TvBWs3AgCm
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [cs5006, algorithm, spotit, groundup, topdown], Mentions: [Lychnys, DrAhmedAHamed], TwitID: 823937437785292800
+	Tweet: RT @Lychnys: @DrAhmedAHamed The #cs5006 #algorithm class today was about design steps to solve #spotit game problems.#groundup and #topdown…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [spotIt, CS5006], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 823936994388611100
+	Tweet: RT @Yuqing_Alice: @DrAhmedAHamed inspiring #spotIt game today on #CS5006 . The bottom-up &amp; top-down algorithm gives me 2 different views to…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [ALIGN, CS5006], Mentions: [SophieQZ, DrAhmedAHamed, Northeastern], TwitID: 823936889052864500
+	Tweet: RT @SophieQZ: @DrAhmedAHamed #ALIGN #CS5006 Learned TopDown &amp; BottomUp approach for solving game puzzles  @Northeastern
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006], Mentions: [SophieQZ, DrAhmedAHamed, Yuqing_Alice, Luyao_Wang1], TwitID: 823936740251566100
+	Tweet: RT @SophieQZ: @DrAhmedAHamed #CS5006 Designed algorithm through solving game puzzle with fantastic teammates! @Yuqing_Alice @Luyao_Wang1 @y…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [algorithms, CS5006], Mentions: [althea_shaheen, DrAhmedAHamed], TwitID: 823936521233383400
+	Tweet: RT @althea_shaheen: games can be a great way to get a different story on #algorithms #CS5006 @DrAhmedAHamed
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [algorithm, bottomup, topdown, CS5006, ALIGN], Mentions: [malloryspector, DrAhmedAHamed], TwitID: 823936337187393500
+	Tweet: RT @malloryspector: Process is important for any approach used to create an #algorithm #bottomup #topdown #CS5006 #ALIGN @DrAhmedAHamed
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [ALGIN, CS5006], Mentions: [CCISatNU, Northeastern], TwitID: 823311415079473200
+	Tweet: #ALGIN #CS5006, excited about class tomorrow? Wait until we play some games and design their algorithms together @CCISatNU @Northeastern
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, ALIGN, GAME], Mentions: [lyfcsc, DrAhmedAHamed], TwitID: 819635946199126000
+	Tweet: RT @lyfcsc: #CS5006 #ALIGN Optimization is useful in AI, in game design. @DrAhmedAHamed
+#GAME
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, align], Mentions: [Luyao_Wang1, DrAhmedAHamed], TwitID: 819559977224466400
+	Tweet: RT @Luyao_Wang1: @DrAhmedAHamed #CS5006
+#align I'd better make my password longer after learning about BruteForce algorithm. #pretendiwasin…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [mutation, crossover, geneticalgorithms, optimization, cs5006, ALIGN], Mentions: [DDaskivich, DrAhmedAHamed], TwitID: 819402114405437400
+	Tweet: RT @DDaskivich: @DrAhmedAHamed #mutation and #crossover drive #geneticalgorithms , useful for #optimization in many contexts. #cs5006 #ALIGN
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [algorithm, cs5006], Mentions: [TomTheLeonard, DrAhmedAHamed], TwitID: 819323156674605000
+	Tweet: RT @TomTheLeonard: @DrAhmedAHamed  It is important for an #algorithm to be "interesting". #cs5006
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [powerofreduction], Mentions: [mhanna141, DrAhmedAHamed], TwitID: 819323024642080800
+	Tweet: RT @mhanna141: @DrAhmedAHamed Even impossible problems should be approached, "computer scientists don't give up!"#powerofreduction #algorit…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [Algorithms, correct, efficient, creative], Mentions: [Rbronstein5006, DrAhmedAHamed], TwitID: 819322949333352400
+	Tweet: RT @Rbronstein5006: @DrAhmedAHamed Well-designed #Algorithms are #correct, #efficient, and #creative-synthesizing disparate concepts into a…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006], Mentions: [nick_align], TwitID: 819293377636220900
+	Tweet: @nick_align I admire the loyalty to the 128 number, but it is actually 140 #CS5006
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006], Mentions: [Yuqing_Alice], TwitID: 819292744602501100
+	Tweet: @Yuqing_Alice Not exactly but it is a good start #CS5006
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, GreedyAlgorithms], Mentions: [Yuqing_Alice, DrAhmedAHamed], TwitID: 819292614214172700
+	Tweet: RT @Yuqing_Alice: @DrAhmedAHamed said on #CS5006 that the #GreedyAlgorithms concentrate on solving current problem. Good way when we cant s…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [algorithms], Mentions: [nick_align, DrAhmedAHamed], TwitID: 819276343343009800
+	Tweet: RT @nick_align: @DrAhmedAHamed Twitter data mining #algorithms have been used to link poorly studied interactions of drugs like THC and Ibu…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, ALIGN], Mentions: [CCISatNU, Northeastern], TwitID: 819249798167625700
+	Tweet: @CCISatNU @Northeastern I asked #CS5006 #ALIGN students to tweet after the lecture. I am so proud of all of them https://t.co/OQnXUSugoB
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [algorithm, CS5006], Mentions: [ychenwei0124], TwitID: 819247928598560800
+	Tweet: RT @ychenwei0124: Divide and Conquer #algorithm breaks down a giant, hard-to-solve problem into some small, solvable pieces. #CS5006 @DrAhm…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [quickcup, quicksort, CS5006], Mentions: [xyxiaoyao], TwitID: 819244906283728900
+	Tweet: RT @xyxiaoyao: #quickcup use the fixed color array as the order, shuffled color becomes unsorted array and we can use #quicksort #CS5006 @D…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [Northeastern, ALIGN, CS5006, Algorithms, Heuristics, BruteForce, Humorous], Mentions: [gigipafei], TwitID: 819244818085847000
+	Tweet: RT @gigipafei: #Northeastern #ALIGN #CS5006 #Algorithms #Heuristics 
+Didn't know what #BruteForce means when I saw this word.
+#Humorous @Dr…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [algorithm, cs5006], Mentions: [althea_shaheen, DrAhmedAHamed], TwitID: 819244633712640000
+	Tweet: RT @althea_shaheen: the shortest path #algorithm is a very interesting idea for me to get through the semester #cs5006 @DrAhmedAHamed
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [costly, CS5006], Mentions: [Karmas_A_Lich], TwitID: 819244472462671900
+	Tweet: RT @Karmas_A_Lich: brute force algorithms are rather easy to implement but #costly in terms of computational resources #CS5006 @DrAhmedAHam…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [algorithm, simpleidea, ruleofthumb, CS5006, ALIGN], Mentions: [ArnoldRun, DrAhmedAHamed], TwitID: 819244378870972400
+	Tweet: RT @ArnoldRun: An #algorithm doesn't have to be complex, but rather a #simpleidea that works.  #ruleofthumb #CS5006 #ALIGN @DrAhmedAHamed
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [CS5006, ALIGN, Algorithm], Mentions: [xyxiaoyao], TwitID: 819244190186012700
+	Tweet: RT @xyxiaoyao: Reduction can help solve problems that otherwise wouldn't be solvable in our entire lifetimes #CS5006 #ALIGN #Algorithm @DrA…
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [algorithm, cs5006, ALIGN], Mentions: [meredith_accum, DrAhmedAHamed], TwitID: 818889198841303000
+	Tweet: RT @meredith_accum: Greedy #algorithm strategies show little foresight. #cs5006 #ALIGN @DrAhmedAHamed
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [Algorithm, CS5006, ALIGN], Mentions: [CCISatNU, Northeastern], TwitID: 818246411145904100
+	Tweet: @CCISatNU @Northeastern Looking forward to meeting the #Algorithm #CS5006 #ALIGN students tomorrow! We will have some much fun!
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [Oud, Music, Solo], Mentions: [DrAhmedAHamed], TwitID: 816856233680470000
+	Tweet: RT @DrAhmedAHamed: Humbly me playing #Oud #Music #Solo https://t.co/hBPhULbALg
+uName: DrAhmedAHamed, Name: Dr. Ahmed A Hamed*, Hashtags: [], Mentions: [peasnlov, DrAhmedAHamed], TwitID: 811312121741013000
+	Tweet: RT @peasnlov: @DrAhmedAHamed https://t.co/DCgJCWwFNI
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [DivideAndConquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836433686375632900
+	Tweet: #DivideAndConquer can be used search for a missing person: break search into multiple quadrants -&gt; separately search #CS5006 @DrAhmedAHamed
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [CS5006MTE], Mentions: [malloryspector], TwitID: 834636840938373100
+	Tweet: @malloryspector do you have constraints to ensure two tiles are not placed next to each other that shouldn't be? #CS5006MTE
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [divideandconquer, CS5006MTE], Mentions: [jennyjohns93], TwitID: 834636196324208600
+	Tweet: @jennyjohns93 referring to the #divideandconquer technique? If so, how did you combine the solutions to your sub-problems? #CS5006MTE
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [CS5006MTE], Mentions: [RyanKalla], TwitID: 834632992756752400
+	Tweet: @RyanKalla would it be beneficial to choose a center of one of the clusters (aka a large star) first instead? #CS5006MTE
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [recursion, CS5006MTE], Mentions: [], TwitID: 834624030162419700
+	Tweet: I made good use of #recursion so my alogrithm can be extrapolated to make larger graphs using the same steps #CS5006MTE
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834622956705833000
+	Tweet: I thought of the clusters (large stars surrounded by smaller pieces) as a graph that can be traversed #CS5006MTE
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [divideandconquer, CS5006MTE], Mentions: [], TwitID: 834622067479814100
+	Tweet: I used #divideandconquer to break the main problem into smaller problems, find the solution to those problems, then combine #CS5006MTE
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 833837697676537900
+	Tweet: Missing  #CS5006 and @DrAhmedAHamed so much tonight I can't stop thinking about finding the shortest path home from work!
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [synergy, CS5006], Mentions: [DrAhmedAHamed], TwitID: 831302158784032800
+	Tweet: ants prove collaborative #synergy #CS5006 @DrAhmedAHamed
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [vertex, CS5006], Mentions: [DrAhmedAHamed], TwitID: 828777942188716000
+	Tweet: In other words, a strongly connected directed graph means every #vertex is reachable from every other vertex @DrAhmedAHamed #CS5006
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [ALIGN, CS5006], Mentions: [DrAhmedAHamed, CCISatNU], TwitID: 828400551536758800
+	Tweet: RT @DrAhmedAHamed: #ALIGN students learned how to model and represent their #CS5006 class social networks, so awesome! @CCISatNU @Northeast…
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [ecologicalnetworks, CS5006], Mentions: [DrAhmedAHamed], TwitID: 826241151640404000
+	Tweet: search algorithms and graphs can be applied to endless scenarios #ecologicalnetworks @DrAhmedAHamed #CS5006
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [bottomup, CS5006], Mentions: [DrAhmedAHamed], TwitID: 823707299650928600
+	Tweet: it is possible to have several different approaches to the same algorithm. i.e. top down vs #bottomup @DrAhmedAHamed #CS5006
+uName: Karmas_A_Lich, Name: George Karmelich, Hashtags: [costly, CS5006], Mentions: [DrAhmedAHamed], TwitID: 819031405577568300
+	Tweet: brute force algorithms are rather easy to implement but #costly in terms of computational resources #CS5006 @DrAhmedAHamed
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [DivideAndConquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836425189244223500
+	Tweet: @DrAhmedAHamed #DivideAndConquer can help musicians create practice schedules. DaC algorithms can rank and sort songs by difficulty #CS5006
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834449728951709700
+	Tweet: 3. Make use of randomness to choose tiles, but do not allow multiple of the same tile to be placed next to each other. #CS5006MTE
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834449225706569700
+	Tweet: 2. Flip inital quadrant vertically/horizontally to fill the other quadrants, then extend. This creates symmetry and repetition #CS5006MTE
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [CS5006MTE], Mentions: [], TwitID: 834448509675962400
+	Tweet: 1. Begin by creating one quadrant of the pattern, this would be the simplest, non-repeating section of the pattern #CS5006MTE
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [biology, algorithms, ants, ShortestPath, CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 831340459708579800
+	Tweet: @DrAhmedAHamed #biology can provide inspiration for #algorithms, just like #ants finding the #ShortestPath to food #CS5006 #ALIGN
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [CS5006, ALIGN, Algorithms, Graphs], Mentions: [DrAhmedAHamed], TwitID: 828811312138428400
+	Tweet: @DrAhmedAHamed Bipartite graphs have strict rules for their cycles, they have no tolerance for oddity #CS5006 #ALIGN #Algorithms #Graphs
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [CS5006, ALIGN, Trees, Graphs, Algorithms], Mentions: [DrAhmedAHamed], TwitID: 826311341732397000
+	Tweet: @DrAhmedAHamed Trees have life cycles but not Node cycles #CS5006 #ALIGN #Trees #Graphs #Algorithms
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [CS5006, ALIGN, Algorithms, TryBothWays], Mentions: [DrAhmedAHamed], TwitID: 823739146770456600
+	Tweet: @DrAhmedAHamed If you're having difficulty finding a bottom-up solution, try working top-down #CS5006 #ALIGN #Algorithms #TryBothWays
+uName: RyanKalla, Name: Ryan Kalla, Hashtags: [CS5006, ALIGN, Algorithms, Think], Mentions: [DrAhmedAHamed, Northeastern, Google], TwitID: 818634034918133800
+	Tweet: @DrAhmedAHamed @Northeastern Take an Algorithms class and learn how to beat @Google at their own game #CS5006 #ALIGN #Algorithms #Think
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006, algorithm], Mentions: [DrAhmedAHamed], TwitID: 836421989929742300
+	Tweet: @DrAhmedAHamed A good way to apply divide and conquor is the route search algorithm.We devide maps into smaller parts.#CS5006 #algorithm
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [Luyao_Wang1], TwitID: 836028437185904600
+	Tweet: @Luyao_Wang1 How to repeat your step? Can you explain it in detail? And under what circumstances will the algorithm terminate?😁 #CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [lyfcsc], TwitID: 836027988936392700
+	Tweet: @lyfcsc You put all centers in a List and each of them has a seperate reference list? Would not it be better to put them in 1list #CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [SophieQZ], TwitID: 835987944125124600
+	Tweet: @SophieQZ How about the next steps? The algorithm how do you make sure it spreads until the canvas is full? #CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [Luyao_Wang1], TwitID: 835986290009063400
+	Tweet: @Luyao_Wang1 The algorithm reaches an end when the queue becomes empty. The queue controls the sequence of pattern replication #CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [lyfcsc], TwitID: 835985295824797700
+	Tweet: @lyfcsc I created different functions to build the pattern, and passing the center coordinates as parameter. Then it can be used. #CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [SophieQZ], TwitID: 835963632303362000
+	Tweet: @SophieQZ First I categorize the smallest pieces into different groups by color, then mark different shapes with different label #CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835752871811493900
+	Tweet: The key part of the self-spread algorithm is to set a way to explain how basic patterns spread. Queue would be an excellent idea.#CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835752316892504000
+	Tweet: To form the patterns, because its repetitive, each single type of pattern should be encapsuled into functions for future uses.#CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [CS5006MTE], Mentions: [], TwitID: 835739308267040800
+	Tweet: For repeatitive patterns, the most important thing is to find the basic elements that form the pattern, build from the small part.#CS5006MTE
+uName: Lychnys, Name: Shuo Yang, Hashtags: [cs5006, algorithn, align], Mentions: [DrAhmedAHamed], TwitID: 831687668715110400
+	Tweet: @DrAhmedAHamed Similar to the ants. How to avoid circle in graph? Track nodes that the algorithm visited before.#cs5006 #algorithn #align
+uName: Lychnys, Name: Shuo Yang, Hashtags: [BFS, cs5006, algorithm, align], Mentions: [DrAhmedAHamed], TwitID: 829080203653693400
+	Tweet: Yesterday we learned how to use #BFS  to explore graph.By checking cycles we determine bipartite.@DrAhmedAHamed #cs5006 #algorithm #align
+uName: Lychnys, Name: Shuo Yang, Hashtags: [cs5006, algorithm, adjacencymatrix], Mentions: [DrAhmedAHamed], TwitID: 826849645607473200
+	Tweet: @DrAhmedAHamed During the #cs5006 #algorithm class on Monday, we used #adjacencymatrix &amp;#adjacencylist to describe the connection in diagram
+uName: Lychnys, Name: Shuo Yang, Hashtags: [cs5006, algorithm, spotit, groundup, topdown], Mentions: [DrAhmedAHamed], TwitID: 823770373959323600
+	Tweet: @DrAhmedAHamed The #cs5006 #algorithm class today was about design steps to solve #spotit game problems.#groundup and #topdown were used.
+uName: Lychnys, Name: Shuo Yang, Hashtags: [cs5006, algorithm, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 818673383730712600
+	Tweet: @DrAhmedAHamed I was having a great time in the #cs5006 #algorithm class with #ALIGN guys . Tried to apply… https://t.co/D5RO3OQamH
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [greedy, algorithms, Divide, conquer, cs5006], Mentions: [DrAhmedAHamed], TwitID: 836415877826371600
+	Tweet: @DrAhmedAHamed  Unlike #greedy #algorithms, #Divide and #conquer is useful for long-term planning:  games, travel, and diet (maybe?) #cs5006
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [mhanna141], TwitID: 836262285723250700
+	Tweet: @mhanna141  I draw a "quadrant" and reflect. Easier to explain in person, but since that's been done, this is a filler tweet. #CS5006MTE
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [AswathIlangovan, DrAhmedAHamed], TwitID: 836261994600738800
+	Tweet: @AswathIlangovan @DrAhmedAHamed #CS5006MTE I manually designate central nodes with a variable. Not very exciting but it gets the job done.
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [danscheirer], TwitID: 835966936521519100
+	Tweet: @danscheirer ...flagged as central so drawing only takes place at them, whereas the rest can safely be ignored. #CS5006MTE
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [jennyjohns93, DrAhmedAHamed], TwitID: 835222814449786900
+	Tweet: @jennyjohns93 @DrAhmedAHamed How do you know the space is finally empty? What if user wishes to increase or decrease the size? #CS5006MTE
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [malloryspector], TwitID: 834838478340886500
+	Tweet: @malloryspector #CS5006MTE So I like to assume users can just add more at will. Perhaps we terminate when the computer has no memory left :D
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [richard_csj], TwitID: 834287096802205700
+	Tweet: @richard_csj How do you "encode" in your algorithm rule of thumb ensuring specific locations for shapes and empty spots? Vague.  #CS5006MTE
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [DrAhmedAHamed], TwitID: 834285622558912500
+	Tweet: #CS5006MTE @DrAhmedAHamed Though the pattern is meant to repeat forever, I claimed my algorithm ends when we run out of nodes to explore.
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [DrAhmedAHamed], TwitID: 834285405734322200
+	Tweet: #CS5006MTE @DrAhmedAHamed At "central" nodes, I drew a tile and reflected it over the axes to  reproduce a pattern with minimal info.
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006MTE], Mentions: [DrAhmedAHamed], TwitID: 834284551937613800
+	Tweet: #CS5006MTE @DrAhmedAHamed  I laid a grid of repeating symbols, treating them as nodes on a graph to be traversed to find all draw locations.
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 831726005576425500
+	Tweet: @DrAhmedAHamed let me know! Thanks!
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 831725962375094300
+	Tweet: @DrAhmedAHamed to find free graphics software and learn how to bend it to my will in all the right ways to get my graphics out! Please (5/x)
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 831725740089557000
+	Tweet: @DrAhmedAHamed I can hand-draw instead of use computer graphics. It'll take much less time for me to neatly draw and scan than it will (4/x)
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 831725596321337300
+	Tweet: @DrAhmedAHamed https://t.co/LrWvRGOIxW. I dunno if I can concisely articulate the longer story in tweets. Incidentally, wondering if (3/x)
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 831725305551343600
+	Tweet: @DrAhmedAHamed the short answer of what I was thinking of when looking for some sort of building block to base my algorithm on is (2/x)
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 831725060528472000
+	Tweet: @DrAhmedAHamed I thought you'd never ask. So I'm going out a bit on a limb since I have to assume graphics software can do what I want (1/x)
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [reflects, PuzzleSolvingAlgo, CS5006], Mentions: [DrAhmedAHamed], TwitID: 831314248903045100
+	Tweet: @DrAhmedAHamed If one #reflects on their #PuzzleSolvingAlgo, soon it becomes self-organizing (maybe?) #CS5006
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 828832776711499800
+	Tweet: @DrAhmedAHamed Will do!
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [BreadthFirstSearch, CS5006], Mentions: [DrAhmedAHamed], TwitID: 828793378435428400
+	Tweet: @DrAhmedAHamed #BreadthFirstSearch traverses a graph from a node one degree of separation at a time until the graph is explored. #CS5006
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [Algorithms, graphs, CS5006], Mentions: [DrAhmedAHamed], TwitID: 826247424544997400
+	Tweet: @DrAhmedAHamed  #Algorithms on #graphs can discover and articulate relationships, but its up to us to explain what they mean! #CS5006
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 823960454942826500
+	Tweet: @DrAhmedAHamed Bring it on!
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [implementation, cs5006], Mentions: [DrAhmedAHamed], TwitID: 823775455891324900
+	Tweet: @DrAhmedAHamed Using different approaches to design Spot it was hard, but the real devil is in the details of its #implementation #cs5006
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [CS5006], Mentions: [], TwitID: 819782664861270000
+	Tweet: https://t.co/8E52J30oVH Algorithms and ethics! #CS5006
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [Algorithms, correct, efficient, creative, cs5006], Mentions: [DrAhmedAHamed], TwitID: 819024262459719700
+	Tweet: @DrAhmedAHamed Well-designed #Algorithms are #correct, #efficient, and #creative-synthesizing disparate concepts into a solution #cs5006
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [cs5006], Mentions: [DrAhmedAHamed], TwitID: 818629892577300500
+	Tweet: @DrAhmedAHamed Many problems we encounter will fall into broader classifications (e.g. Quick Cups was an instance of sorting) #cs5006
+uName: Rbronstein5006, Name: Rfefwef, Hashtags: [cs5006], Mentions: [DrAhmedAHamed], TwitID: 818629279823069200
+	Tweet: @DrAhmedAHamed We design algorithms to solve complex problems efficiently with basic tools like reduction, recursion, randomization. #cs5006
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 836416977635786800
+	Tweet: [3] @DrAhmedAHamed And having the hearts as the greatest suit and clubs as the least, and then sort accordingly.
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 836416563288887300
+	Tweet: [2] @DrAhmedAHamed But I suppose we can give the colors values as well, black being of lesser value than red
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [], Mentions: [DrAhmedAHamed], TwitID: 836416253417881600
+	Tweet: [1] @DrAhmedAHamed I was specifically thinking of sorting them numerically without taking the color and suit into consideration.
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [mergesort, divideandconquer, CS5006], Mentions: [DrAhmedAHamed], TwitID: 836406376536674300
+	Tweet: We can use #mergesort / #divideandconquer to sort a deck of cards @DrAhmedAHamed #CS5006
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [CS5006MTE], Mentions: [ychenwei0124], TwitID: 834797794456174600
+	Tweet: @ychenwei0124 Does the user determine which are link tiles vs which are symbol tiles or is that a constraint you have to define? #CS5006MTE
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [terminationcondition, CS5006MTE], Mentions: [ArnoldRun], TwitID: 834797152056520700
+	Tweet: @ArnoldRun How does the user then determine which #terminationcondition to use? #CS5006MTE
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [precedenceconstraints, symmetry, CS5006MTE], Mentions: [DrAhmedAHamed], TwitID: 834262925552603100
+	Tweet: [3/3] #precedenceconstraints were used so that 2 diff tiles were placed before proceeding to ensure #symmetry #CS5006MTE @DrAhmedAHamed
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [terminationcondition, CS5006MTE], Mentions: [DrAhmedAHamed], TwitID: 834260525873766400
+	Tweet: [2/3] I used the #terminationcondition of filling up a given empty space as to know when to stop the algorithm #CS5006MTE @DrAhmedAHamed
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [heuristic, CS5006MTE], Mentions: [DrAhmedAHamed], TwitID: 834256945393582100
+	Tweet: [1/3] I used the #heuristic of  a simpler problem to find a solution that could be applied to the larger problem #CS5006MTE @DrAhmedAHamed
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [midterm, CS5006, PuzzleSolvingAlgo], Mentions: [DrAhmedAHamed], TwitID: 832748625004343300
+	Tweet: Is the #midterm to be submitted as one document or two separate files? Thanks!
+@DrAhmedAHamed #CS5006 #PuzzleSolvingAlgo
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [followthepheromonetrail, CS5006], Mentions: [DrAhmedAHamed], TwitID: 831304121311440900
+	Tweet: Ants play the greatest game of follow the leader! #followthepheromonetrail #CS5006 @DrAhmedAHamed 🐜🐜🐜
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [hashtags, moreconnectionsmeansmorecomplications, CS5006], Mentions: [DrAhmedAHamed], TwitID: 828779648368652300
+	Tweet: @DrAhmedAHamed Keywords can be connected to #hashtags but can't be connected to each other #moreconnectionsmeansmorecomplications! #CS5006
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [central, foodweb, network, CS5006], Mentions: [DrAhmedAHamed], TwitID: 826258106665549800
+	Tweet: @DrAhmedAHamed Sea urchins are the #central organism of the #foodweb #network between sea urchins, sea otters and kelp! #CS5006
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [datastructures, unqiuesymbols, topdownapproach, CS5006, algorithms], Mentions: [DrAhmedAHamed, SpotIt], TwitID: 823703331398938600
+	Tweet: @DrAhmedAHamed Today we used #datastructures to keep track of #unqiuesymbols in our #topdownapproach for @SpotIt! #CS5006 #algorithms
+uName: jennyjohns93, Name: Jenny Johns, Hashtags: [interestingness, cs5006], Mentions: [DrAhmedAHamed], TwitID: 818645313993011200
+	Tweet: @DrAhmedAHamed What we touched upon in today's class shows the #interestingness of classes to come #cs5006
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 836402437049167900
+	Tweet: @DrAhmedAHamed One possible use of Divide and Conquer is mail sorting, dividing by specific location requirements at each level. #CS5006
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [CS5006MTE], Mentions: [mhanna141], TwitID: 836000180214325200
+	Tweet: @mhanna141 What is your termination condition? 
+#CS5006MTE
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [interesting, algorithms, CS5006], Mentions: [DrAhmedAHamed], TwitID: 831364932956540900
+	Tweet: @DrAhmedAHamed Studying patterns of animals is a pathway to creating new #interesting #algorithms. #CS5006
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [ants, ALIGN], Mentions: [DrAhmedAHamed, CCISatNU, NU_Graduate, Northeastern], TwitID: 830974671562633200
+	Tweet: RT @DrAhmedAHamed: Is nature inspiring to you? Tomorrow we see how #ants help us solve problems @CCISatNU @NU_Graduate @Northeastern #ALIGN…
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [cs5006, BFS, Shrek], Mentions: [DrAhmedAHamed], TwitID: 828813994139983900
+	Tweet: @DrAhmedAHamed Like onions and ogres, graphs have layers. #cs5006 #BFS #Shrek
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [Networks, CS5006], Mentions: [DrAhmedAHamed], TwitID: 826433476194869200
+	Tweet: @DrAhmedAHamed #Networks are a useful way of representing data to help scientists understand more about biological interactions. #CS5006
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [cs5006], Mentions: [DrAhmedAHamed], TwitID: 823808666356904000
+	Tweet: @DrAhmedAHamed Regardless from which direction you work, it's important to keep your base-case and termination condition in mind. #cs5006
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [algorithm, cs5006], Mentions: [DrAhmedAHamed], TwitID: 819316357569331200
+	Tweet: @DrAhmedAHamed  It is important for an #algorithm to be "interesting". #cs5006
+uName: TomTheLeonard, Name: Tom Leonard, Hashtags: [algorithm, cs5006], Mentions: [DrAhmedAHamed], TwitID: 818890872402153500
+	Tweet: @DrAhmedAHamed  It is important for an #algorithm to be "interesting". #cs5006
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 836378959734575100
+	Tweet: @DrAhmedAHamed Thinking about an algorithm that divides beer and diaper lovers into smaller groups using psychographic segmentation. #CS5006
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006MTE], Mentions: [RyanKalla], TwitID: 834710618322124800
+	Tweet: @RyanKalla Curious, is this constraint only valid for patterns or every tile belonging to the shape. #CS5006MTE
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006MTE], Mentions: [malloryspector], TwitID: 834709052701671400
+	Tweet: @malloryspector It would be nice to terminate also if the border tiles are part of patterns evenly distributed in the shape. #CS5006MTE
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006MTE], Mentions: [danscheirer], TwitID: 834703437514276900
+	Tweet: @danscheirer Is your algorithm building symmetric portions and grouping or adding piece by piece to the smallest portion? #CS5006MTE
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [rowsofshapes, divideandconquer, CS5006MTE], Mentions: [], TwitID: 834488806480937000
+	Tweet: 3) We focus on each row and break the puzzle into simple constructs--the #rowsofshapes. #divideandconquer #CS5006MTE
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [Symmetry, CS5006MTE], Mentions: [], TwitID: 834487462651162600
+	Tweet: 2) We place identical shapes on both the left side and right side of the row portion we are focusing on #Symmetry #CS5006MTE
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006MTE], Mentions: [Rbronstein5006], TwitID: 834306379737342000
+	Tweet: @Rbronstein5006 GQ! The first row is my starting point and I'm assuming I know the distance between the centers of two shapes. #CS5006MTE
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006MTE], Mentions: [DrAhmedAHamed], TwitID: 834260376539775000
+	Tweet: @DrAhmedAHamed 1) #CS5006MTE Start from the top and fill the puzzle down while going back to fill in empty spots with yellow and green.
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [Inspiration, CS5006], Mentions: [DrAhmedAHamed], TwitID: 831307766753030100
+	Tweet: @DrAhmedAHamed The social behaviour of ants has been proven efficient for designing algorithms. #Inspiration #CS5006
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 828797052352098300
+	Tweet: @DrAhmedAHamed Strongly connected relationships are the best. No one-way giving. Everyone giving back. #CS5006
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006], Mentions: [DrAhmedAHamed], TwitID: 826241731775565800
+	Tweet: @DrAhmedAHamed We represent billions of people. We can always find the shortest path to each other if we think out of the box. #CS5006
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [CS5006, ALIGN], Mentions: [DrAhmedAHamed], TwitID: 823711210545758200
+	Tweet: @DrAhmedAHamed Even the most complicated algorithm is built from the ground up. Break it down to understand. #CS5006 #ALIGN
+uName: richard_csj, Name: Richard Sang Chun, Hashtags: [win, CS5006, algorithms], Mentions: [DrAhmedAHamed], TwitID: 818660023748481000
+	Tweet: @DrAhmedAHamed I'm glad you can help us think and implement our ideas in order to #win ! #CS5006 #algorithms
